@@ -1,5 +1,7 @@
 # Cloudfide Recruitment Task
 
+![Tests](https://github.com/PiotrMiernik/cloudfide-recruitment-task/actions/workflows/tests.yml/badge.svg)
+
 Implementation of the `add_virtual_column` function for creating a calculated
 column in a pandas DataFrame.
 
