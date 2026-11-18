@@ -1,0 +1,1508 @@
+Order ID,Region,Product,Quantity ,Unit Price,Discount,Order Date
+SO-10001,South,Office chair,32,249.00,398.40,2026-08-07
+SO-10002,East,Monitor stand,1,59.00,,2026-02-19
+SO-10003,South,Headset,14,119.00,,2026-03-25
+SO-10004,East,Mouse,11,29.50,,2026-07-25
+SO-10005,South,Printer paper,6,21.00,12.60,2026-03-24
+SO-10006,Central,Headset,9,119.00,107.10,2026-09-03
+SO-10007,South,Headset,9,119.00,,2026-04-08
+SO-10008,East,Desk lamp,4,39.90,7.98,2026-02-01
+SO-10009,West,Mouse,16,29.50,,2026-03-20
+SO-10010,Central,Headset,26,119.00,,2026-09-10
+SO-10011,North,Headset,33,119.00,196.35,2026-01-02
+SO-10012,North,Keyboard,5,89.00,44.50,2026-03-09
+SO-10013,North,Printer paper,8,21.00,,2026-01-05
+SO-10014,East,Headset,27,119.00,,2026-08-08
+SO-10015,South,Mouse,18,29.50,,2026-04-17
+SO-10016,Central,Mouse,29,29.50,85.55,2026-01-21
+SO-10017,North,Notebook pack,19,12.50,11.88,2026-07-12
+SO-10018,West,Printer paper,6,21.00,12.60,2026-08-05
+SO-10019,South,Headset,4,119.00,,2026-06-02
+SO-10020,South,Office chair,28,249.00,,2026-02-06
+SO-10021,Central,Notebook pack,25,12.50,,2026-03-27
+SO-10022,West,Printer paper,36,21.00,,2026-07-10
+SO-10023,West,Keyboard,38,89.00,169.10,2026-05-09
+SO-10024,South,Headset,38,119.00,,2026-09-19
+SO-10025,West,Headset,2,119.00,,2026-06-14
+SO-10026,Central,Headset,40,119.00,,2026-09-12
+SO-10027,West,Mouse,7,29.50,,2026-09-05
+SO-10028,East,Keyboard,3,89.00,,2026-03-08
+SO-10029,South,Headset,26,119.00,309.40,2026-05-04
+SO-10030,East,Office chair,19,249.00,473.10,2026-06-02
+SO-10031,West,Office chair,22,249.00,273.90,2026-03-18
+SO-10032,South,Notebook pack,32,12.50,20.00,2026-05-29
+SO-10033,East,Notebook pack,39,12.50,,2026-08-17
+SO-10034,Central,Monitor stand,1,59.00,,2026-03-13
+SO-10035,South,Desk lamp,27,39.90,53.87,2026-09-06
+SO-10036,South,Monitor stand,12,59.00,,2026-09-10
+SO-10037,North,Monitor stand,29,59.00,,2026-05-15
+SO-10038,West,Headset,31,119.00,,2026-01-16
+SO-10039,East,Office chair,12,249.00,298.80,2026-04-23
+SO-10040,North,Monitor stand,32,59.00,,2026-07-24
+SO-10041,West,Printer paper,37,21.00,,2026-05-01
+SO-10042,Central,Printer paper,25,21.00,,2026-07-16
+SO-10043,Central,Printer paper,37,21.00,,2026-08-03
+SO-10044,North,Office chair,16,249.00,,2026-06-13
+SO-10045,East,Monitor stand,9,59.00,,2026-08-18
+SO-10046,East,Monitor stand,20,59.00,,2026-07-27
+SO-10047,Central,Office chair,15,249.00,,2026-04-27
+SO-10048,South,Notebook pack,9,12.50,,2026-03-07
+SO-10049,South,Office chair,7,249.00,,2026-05-06
+SO-10050,Central,Notebook pack,3,12.50,,2026-01-20
+SO-10051,East,Office chair,10,249.00,,2026-06-15
+SO-10052,North,Printer paper,22,21.00,,2026-05-12
+SO-10053,East,Monitor stand,4,59.00,11.80,2026-04-19
+SO-10054,East,Keyboard,13,89.00,57.85,2026-01-31
+SO-10055,East,Headset,38,119.00,,2026-08-16
+SO-10056,North,Monitor stand,36,59.00,106.20,2026-06-18
+SO-10057,West,Printer paper,2,21.00,4.20,2026-06-10
+SO-10058,west  ,Notebook pack,29,12.50,,2026-03-08
+SO-10059,East,Headset,4,119.00,,2026-07-23
+SO-10060,Central,Monitor stand,34,59.00,200.60,2026-08-15
+SO-10061,West,Mouse,1,29.50,,2026-06-05
+SO-10062,South,Printer paper,14,21.00,,2026-04-23
+SO-10063,East,Desk lamp,25,39.90,99.75,2026-09-02
+SO-10064,East,Office chair,16,249.00,,2026-07-23
+SO-10065,Central,Mouse,9,29.50,26.55,2026-07-18
+SO-10066,Central,Monitor stand,24,59.00,,2026-08-09
+SO-10067,East,Desk lamp,7,39.90,,2026-09-13
+SO-10068,East,Desk lamp,12,39.90,23.94,2026-03-13
+SO-10069,East,Headset,5,119.00,,2026-02-26
+SO-10070,East,Headset,28,119.00,333.20,2026-06-23
+SO-10071,West,Office chair,38,249.00,,2026-07-17
+SO-10072,South,Monitor stand,26,59.00,153.40,2026-09-25
+SO-10073,South,Mouse,18,29.50,,2026-07-19
+SO-10074,Central,Desk lamp,16,39.90,,2026-01-05
+SO-10075,West,Office chair,14,249.00,,2026-08-21
+SO-10076,West,Desk lamp,38,39.90,151.62,2026-03-07
+SO-10077,Central ,Desk lamp,11,39.90,,2026-05-02
+SO-10078,Central,Printer paper,24,21.00,,2026-04-01
+SO-10079,East,Notebook pack,18,12.50,,2026-06-05
+SO-10080,North,Monitor stand,32,59.00,188.80,2026-04-06
+SO-10081,North,Mouse,22,29.50,64.90,2026-04-15
+SO-10082,East,Headset,30,119.00,,2026-09-28
+SO-10083,East,Mouse,34,29.50,100.30,2026-02-28
+SO-10084,West,Mouse,1,29.50,,2026-01-20
+SO-10085,South,Mouse,1,29.50,1.48,2026-05-21
+SO-10086,Central,Desk lamp,33,39.90,,2026-07-12
+SO-10087,North,Headset,26,119.00,154.70,2026-02-15
+SO-10088,North,Desk lamp,32,39.90,,2026-09-14
+SO-10089,East,Notebook pack,5,12.50,6.25,2026-09-01
+SO-10090,East,Printer paper,7,21.00,,2026-08-16
+SO-10091,North,Desk lamp,40,39.90,,2026-04-21
+SO-10092,East,Mouse,6,29.50,17.70,2026-04-10
+SO-10093,East,Notebook pack,28,12.50,,2026-08-13
+SO-10094,East,Office chair,31,249.00,,2026-06-17
+SO-10095,East,Desk lamp,22,39.90,,2026-08-02
+SO-10096,South,Headset,32,119.00,,2026-06-10
+SO-10097,West,Mouse,35,29.50,,2026-07-23
+SO-10098,Central,Monitor stand,39,59.00,115.05,2026-02-22
+SO-10099,North,Office chair,29,249.00,,2026-03-31
+SO-10100,South,Desk lamp,28,39.90,,2026-04-23
+SO-10101,North,Keyboard,27,89.00,240.30,2026-04-06
+SO-10102,South,Monitor stand,5,59.00,,2026-03-12
+SO-10103,Central,Office chair,8,249.00,,2026-08-30
+SO-10104,North,Keyboard,2,89.00,8.90,2026-08-04
+SO-10105,North,Keyboard,34,89.00,,2026-07-11
+SO-10106,North,Headset,2,119.00,,2026-09-13
+SO-10107,South,Office chair,25,249.00,311.25,2026-06-30
+SO-10108,North,Desk lamp,10,39.90,,2026-05-19
+SO-10109,East,Mouse,17,29.50,50.15,2026-08-20
+SO-10110,South,Notebook pack,24,12.50,,2026-06-10
+SO-10111,West,Keyboard,4,89.00,35.60,2026-07-15
+SO-10112,West,Printer paper,31,21.00,32.55,2026-04-16
+SO-10113,Central,Notebook pack,32,12.50,,2026-07-11
+SO-10114,East,Keyboard,5,89.00,44.50,2026-07-13
+SO-10115,North,Mouse,13,29.50,,2026-01-08
+SO-10116,North,Office chair,20,249.00,,2026-07-20
+SO-10117,North,Keyboard,19,89.00,,2026-06-08
+SO-10118,North,Monitor stand,4,59.00,,2026-04-18
+SO-10119,Central,Printer paper,9,21.00,,2026-03-04
+SO-10120,East,Mouse,28,29.50,,2026-04-29
+SO-10121,North,Keyboard,9,89.00,40.05,2026-03-07
+SO-10122,North,Headset,29,119.00,172.55,2026-04-20
+SO-10123,South,Headset,30,119.00,,2026-07-09
+SO-10124,South,Desk lamp,8,39.90,,2026-02-23
+SO-10125,South,Monitor stand,23,59.00,,2026-04-20
+SO-10126,South,Office chair,14,249.00,,2026-07-30
+SO-10127,South,Keyboard,26,89.00,,2026-08-12
+SO-10128,North,Mouse,40,29.50,59.00,2026-04-28
+SO-10129,West,Desk lamp,30,39.90,119.70,2026-03-18
+SO-10130,Central,Keyboard,26,89.00,,2026-03-24
+SO-10131,North,Keyboard,4,89.00,35.60,2026-03-18
+SO-10132,South,Headset,36,119.00,428.40,2026-04-01
+SO-10133,Central,Desk lamp,35,39.90,,2026-02-27
+SO-10134,North,Headset,7,119.00,41.65,2026-07-11
+SO-10135,Central,Mouse,5,29.50,7.38,2026-06-19
+SO-10136,North,Monitor stand,12,59.00,,2026-03-18
+SO-10137,East,Monitor stand,18,"59,00",53.10,2026-01-10
+SO-10138,North,Desk lamp,4,39.90,,2026-07-30
+SO-10139,West,Keyboard,10,89.00,,2026-08-12
+SO-10140,North,Printer paper,21,21.00,44.10,2026-03-21
+SO-10141,North,Mouse,40,29.50,,2026-08-04
+SO-10142,South,Notebook pack,3,12.50,1.88,2026-05-08
+SO-10143,East,Desk lamp,4,39.90,15.96,2026-07-04
+SO-10144,South,Monitor stand,13,59.00,,2026-01-04
+SO-10145,South,Headset,17,119.00,,2026-03-11
+SO-10146,East,Printer paper,37,21.00,,2026-04-08
+SO-10147,North,Headset,32,119.00,380.80,2026-08-13
+SO-10148,North,Printer paper,27,21.00,,2026-04-11
+SO-10149,North,Printer paper,14,21.00,,2026-05-07
+SO-10150,East,Keyboard,23,89.00,204.70,2026-01-25
+SO-10151,North,Notebook pack,9,12.50,,2026-08-15
+SO-10152,South,Notebook pack,24,12.50,,2026-02-19
+SO-10153,Central,Desk lamp,31,39.90,,2026-07-23
+SO-10154,East,Monitor stand,22,59.00,,2026-04-22
+SO-10155,South,Office chair,15,249.00,,2026-01-25
+SO-10156,West,Notebook pack,21,12.50,,2026-07-20
+SO-10157,West,Desk lamp,5,39.90,9.98,2026-04-29
+SO-10158,Central,Keyboard,30,89.00,,2026-08-05
+SO-10159,West,Notebook pack,4,12.50,,2026-02-08
+SO-10160,West,Desk lamp,6,39.90,,2026-05-03
+SO-10161,Central,Mouse,30,29.50,,2026-02-22
+SO-10162,South,Office chair,12,249.00,298.80,2026-05-18
+SO-10163,South,Monitor stand,25,59.00,,2026-05-30
+SO-10164,North,Office chair,13,249.00,161.85,2026-01-27
+SO-10165,East,Printer paper,14,21.00,29.40,2026-07-24
+SO-10166,North,Desk lamp,31,39.90,,2026-05-30
+SO-10167,South,Printer paper,12,21.00,,2026-02-18
+SO-10168,West,Printer paper,30,21.00,,2026-02-14
+SO-10169,North,Printer paper,39,21.00,,2026-07-29
+SO-10170,South,Keyboard,18,89.00,80.10,2026-09-16
+SO-10171,Central,Keyboard,13,89.00,,2026-09-02
+SO-10172,East,Office chair,12,249.00,,2026-02-17
+SO-10173,West,Monitor stand,38,59.00,112.10,2026-07-07
+SO-10174,South,Office chair,9,249.00,,2026-08-01
+SO-10175,Central,Desk lamp,14,39.90,,2026-04-03
+SO-10176,South,Monitor stand,35,59.00,,2026-01-09
+SO-10177,West,Printer paper,2,21.00,,2026-03-07
+SO-10178,North,Printer paper,32,21.00,,2026-01-27
+SO-10179,East,Notebook pack,10,12.50,12.50,2026-02-02
+SO-10180,East,Printer paper,10,21.00,,2026-07-06
+SO-10181,West,Printer paper,5,21.00,,2026-02-25
+SO-10182,North,Monitor stand,9,59.00,,2026-08-01
+SO-10183,South,Mouse,6,29.50,,2026-05-04
+SO-10184,North,Headset,8,119.00,47.60,2026-07-25
+SO-10185,East,Mouse,10,29.50,14.75,2026-04-09
+SO-10186,East,Mouse,40,29.50,,2026-02-02
+SO-10187,Central,Headset,33,119.00,,2026-08-01
+SO-10188,West,Printer paper,37,21.00,38.85,2026-04-26
+SO-10189,West,Monitor stand,1,59.00,,2026-02-25
+SO-10190,South,Printer paper,2,21.00,,2026-01-10
+SO-10191,East,Headset,7,119.00,83.30,2026-01-05
+SO-10192,West,Headset,12,119.00,,2026-04-01
+SO-10193,Central,Keyboard,31,89.00,,2026-09-20
+SO-10194,West,Headset,39,119.00,,2026-04-11
+SO-10195,East,Keyboard,18,89.00,,2026-09-06
+SO-10196,Central,Desk lamp,1,39.90,,2026-04-19
+SO-10197,West,Desk lamp,24,39.90,,2026-09-26
+SO-10198,East,Headset,11,119.00,,2026-05-31
+SO-10199, North,Headset,12,119.00,71.40,2026-01-29
+SO-10200,North,Notebook pack,11,12.50,,2026-04-05
+SO-10201,West,Notebook pack,4,12.50,,2026-01-09
+SO-10202,West,Mouse,9,29.50,,2026-09-07
+SO-10203,East,Printer paper,30,21.00,31.50,2026-07-04
+SO-10204,North,Printer paper,34,21.00,,2026-09-10
+SO-10205,North,Headset,2,119.00,,2026-04-06
+SO-10206,North,Desk lamp,25,39.90,,2026-02-09
+SO-10207,Central,Desk lamp,17,39.90,33.91,2026-07-30
+SO-10208,South,Desk lamp,1,39.90,3.99,2026-02-06
+SO-10209,West,Keyboard,40,89.00,,2026-09-21
+SO-10210,West,Monitor stand,7,59.00,,2026-01-21
+SO-10211,East,Desk lamp,5,39.90,19.95,2026-03-24
+SO-10212,West,Office chair,27,249.00,,2026-07-18
+SO-10213,Central,Mouse,32,29.50,,2026-02-13
+SO-10214,North,Monitor stand,40,59.00,118.00,2026-07-29
+SO-10215,East,Headset,36,119.00,,2026-04-02
+SO-10216,South,Printer paper,32,21.00,67.20,2026-06-02
+SO-10217,West,Notebook pack,28,12.50,35.00,2026-04-12
+SO-10218,South,Notebook pack,26,12.50,,2026-07-06
+SO-10219,East,Headset,10,119.00,119.00,2026-04-14
+SO-10220,South,Desk lamp,11,39.90,,2026-03-23
+SO-10221,South,Notebook pack,30,12.50,,2026-07-12
+SO-10222,East,Keyboard,24,89.00,,2026-08-03
+SO-10223,North,Notebook pack,33,12.50,41.25,2026-07-30
+SO-10224,West,Headset,38,119.00,226.10,2026-01-18
+SO-10225,Central,Office chair,27,249.00,672.30,2026-05-27
+SO-10226,South,Mouse,3,29.50,,2026-04-09
+SO-10227,North,Keyboard,27,89.00,240.30,2026-02-18
+SO-10228,North,Mouse,10,29.50,,2026-03-28
+SO-10229,Central,Notebook pack,25,12.50,,2026-03-24
+SO-10230,West,Printer paper,40,21.00,,2026-03-10
+SO-10231,Central,Monitor stand,33,59.00,,2026-01-21
+SO-10232,East,Headset,23,119.00,,2026-04-18
+SO-10233,North,Keyboard,24,89.00,,2026-06-16
+SO-10234,West,Printer paper,8,21.00,,2026-01-14
+SO-10235,East,Notebook pack,37,12.50,23.12,2026-07-19
+SO-10236,North,Printer paper,27,21.00,,2026-05-05
+SO-10237,South,Keyboard,9,89.00,80.10,2026-04-10
+SO-10238,North,Headset,22,119.00,130.90,2026-02-20
+SO-10239,West,Monitor stand,15,59.00,44.25,2026-09-28
+SO-10240,East,Notebook pack,1,12.50,,2026-05-19
+SO-10241,East,Headset,35,119.00,,2026-09-17
+SO-10242,North,Mouse,20,29.50,,2026-06-09
+SO-10243,West,Office chair,11,249.00,,2026-05-12
+SO-10244,East,Office chair,22,249.00,,2026-05-25
+SO-10245,Central,Notebook pack,22,12.50,,2026-02-14
+SO-10246,West,Mouse,37,29.50,109.15,2026-06-24
+SO-10247,East,Desk lamp,5,39.90,,2026-04-30
+SO-10248,Central,Mouse,8,29.50,,2026-01-04
+SO-10249,North,Office chair,39,249.00,971.10,2026-06-04
+SO-10250,West,Monitor stand,14,59.00,,2026-07-08
+SO-10251,North,Printer paper,1 762,21.00,,2026-07-08
+SO-10252,South,Printer paper,37,21.00,,2026-08-13
+SO-10253,South,Headset,26,119.00,,2026-08-27
+SO-10254,East,Monitor stand,38,59.00,112.10,2026-06-12
+SO-10255,North,Monitor stand,40,59.00,,2026-05-05
+SO-10256,South,Keyboard,38,89.00,,2026-04-08
+SO-10257,North,Keyboard,27,89.00,240.30,2026-08-12
+SO-10258,South,Headset,16,119.00,190.40,2026-01-03
+SO-10259,Central,Keyboard,22,89.00,195.80,2026-03-20
+SO-10260,North,Monitor stand,8,59.00,47.20,2026-05-31
+SO-10261,West,Printer paper,37,21.00,,2026-04-12
+SO-10262,Central,Desk lamp,33,39.90,,2026-09-24
+SO-10263,East,Headset,34,119.00,202.30,2026-07-05
+SO-10264,East,Office chair,16,249.00,,2026-02-09
+SO-10265,West,Printer paper,30,21.00,,2026-07-19
+SO-10266,Central,Notebook pack,29,12.50,36.25,2026-02-17
+SO-10267,East,Office chair,21,249.00,,2026-08-20
+SO-10268,West,Printer paper,14,21.00,,2026-06-27
+SO-10269,West,Notebook pack,35,12.50,,2026-05-31
+SO-10270,North,Desk lamp,25,39.90,,2026-01-10
+SO-10271,Central,Desk lamp,7,39.90,13.97,2026-01-15
+SO-10272,South,Keyboard,30,89.00,,2026-09-26
+SO-10273,North,Office chair,16,249.00,398.40,2026-07-10
+SO-10274,West,Printer paper,5,21.00,10.50,2026-09-23
+SO-10275,East,Mouse,9,29.50,,2026-04-14
+SO-10276,Central,Keyboard,25,89.00,,2026-04-03
+SO-10277,West,Headset,33,119.00,392.70,2026-04-28
+SO-10278,North,Notebook pack,26,12.50,,2026-06-01
+SO-10279,West,Headset,26,119.00,,2026-06-04
+SO-10280,North,Office chair,14,249.00,,2026-06-29
+SO-10281,East,Keyboard,9,89.00,,2026-01-22
+SO-10282,North,Headset,11,119.00,,2026-01-02
+SO-10283,South,Monitor stand,9,59.00,53.10,2026-06-16
+SO-10284,Central,Office chair,19,249.00,,2026-07-19
+SO-10285,West,Headset,22,119.00,,2026-04-08
+SO-10286,East,Headset,35,119.00,,2026-07-14
+SO-10287,Central,Monitor stand,29,59.00,,2026-04-22
+SO-10288,West,Keyboard,3,89.00,,2026-07-23
+SO-10289,East,Mouse,14,29.50,20.65,2026-09-14
+SO-10290,West,Keyboard,20,89.00,89.00,2026-09-28
+SO-10291,West,Headset,1,119.00,5.95,2026-07-29
+SO-10292,South,Headset,33,119.00,,2026-08-15
+SO-10293,West,Desk lamp,15,39.90,,2026-01-08
+SO-10294,West,Desk lamp,36,39.90,,2026-04-02
+SO-10295,South,Keyboard,20,89.00,,2026-04-22
+SO-10296,North,Monitor stand,35,59.00,103.25,2026-06-02
+SO-10297,West,Headset,30,119.00,,2026-01-20
+SO-10298,West,Mouse,22,29.50,,2026-04-01
+SO-10299,East,Printer paper,21,21.00,,2026-07-12
+SO-10300,Central,Notebook pack,12,12.50,,2026-02-21
+SO-10301,Central,Desk lamp,28,39.90,,2026-05-29
+SO-10302,West,Monitor stand,37,59.00,218.30,2026-04-01
+SO-10303,North,Headset,22,119.00,130.90,2026-02-10
+SO-10304,North,Monitor stand,21,59.00,,2026-06-06
+SO-10305,South,Notebook pack,34,12.50,,2026-05-19
+SO-10305,South,Notebook pack,34,12.50,,2026-05-19
+SO-10306,East,Mouse,27,29.50,,2026-08-14
+SO-10307,Central,Headset,31,119.00,184.45,2026-02-22
+SO-10308,South,Mouse,25,29.50,,2026-05-18
+SO-10309,North,Keyboard,37,89.00,,2026-02-28
+SO-10310,Central,Notebook pack,38,12.50,,2026-08-20
+SO-10311,South,Desk lamp,35,39.90,139.65,2026-09-16
+SO-10312,North,Headset,7,119.00,,2026-05-07
+SO-10313,East,Headset,34,119.00,202.30,2026-05-11
+SO-10314,Central,Office chair,19,249.00,473.10,2026-05-09
+SO-10315,Central,Desk lamp,1,39.90,,2026-03-29
+SO-10316,East,Keyboard,25,89.00,222.50,2026-09-09
+SO-10317,West,Office chair,3,249.00,,2026-07-02
+SO-10318,South,Headset,18,119.00,,2026-09-28
+SO-10319,North,Notebook pack,5,12.50,3.12,2026-08-17
+SO-10320,South,Printer paper,17,21.00,35.70,2026-04-03
+SO-10321,East,Office chair,3,249.00,74.70,2026-04-02
+SO-10322,East,Notebook pack,9,12.50,,2026-08-13
+SO-10323,East,Mouse,30,29.50,,2026-08-08
+SO-10324,East,Office chair,10,249.00,,2026-02-26
+SO-10325,West,Office chair,28,249.00,,2026-08-22
+SO-10326,East,Monitor stand,35,59.00,103.25,2026-04-07
+SO-10327,Central,Printer paper,33,21.00,,2026-01-23
+SO-10328,West,Keyboard,8,89.00,,2026-01-04
+SO-10329,Central,Desk lamp,39,39.90,,2026-09-27
+SO-10330,Central,Office chair,5,249.00,62.25,2026-05-01
+SO-10331,South,Mouse,26,29.50,,2026-07-22
+SO-10332,Central,Headset,22,119.00,,2026-07-19
+SO-10333, South,Notebook pack,7,12.50,4.38,2026-02-27
+SO-10334,South,Office chair,19,249.00,,2026-08-04
+SO-10335,West,Office chair,11,249.00,136.95,2026-04-03
+SO-10336,Central,Office chair,7,249.00,,2026-06-14
+SO-10337,Central,Notebook pack,23,12.50,,2026-05-28
+SO-10338,West,Monitor stand,6,59.00,35.40,2026-08-27
+SO-10339,North,Office chair,19,249.00,473.10,2026-02-20
+SO-10340,South,Printer paper,6,21.00,6.30,2026-09-27
+SO-10341,East,Mouse,37,29.50,,2026-09-29
+SO-10342,Central,Office chair,7,249.00,174.30,2026-02-15
+SO-10343,East,Mouse,19,29.50,,2026-07-18
+SO-10344,North,Printer paper,11,21.00,23.10,2026-03-17
+SO-10345,West,Desk lamp,30,39.90,,2026-05-16
+SO-10346,South,Mouse,18,29.50,,2026-08-31
+SO-10347,West,Monitor stand,25,59.00,147.50,2026-05-31
+SO-10348,Central,Headset,11,119.00,,2026-03-14
+SO-10349,West,Mouse,30,29.50,88.50,2026-07-01
+SO-10350,East,Mouse,29,29.50,85.55,2026-06-27
+SO-10351,South,Mouse,11,29.50,,2026-07-20
+SO-10352,South,Monitor stand,9,59.00,53.10,2026-05-17
+SO-10353,South,Keyboard,34,89.00,,2026-03-05
+SO-10354,North,Monitor stand,34,59.00,200.60,2026-03-19
+SO-10355,East,Printer paper,18,21.00,,2026-01-31
+SO-10356,West,Mouse,39,29.50,,2026-03-09
+SO-10357,North,Printer paper,30,21.00,,2026-01-29
+SO-10358,North,Monitor stand,9,59.00,,2026-02-16
+SO-10359,East,Headset,7,119.00,,2026-03-02
+SO-10360,Central,Office chair,10,249.00,,2026-08-10
+SO-10361,West,Keyboard,3,89.00,13.35,2026-09-03
+SO-10362,East,Keyboard,35,89.00,155.75,2026-05-28
+SO-10363,West,Mouse,14,29.50,20.65,2026-04-18
+SO-10364,West,Headset,5,119.00,,2026-04-20
+SO-10365,Central,Headset,30,119.00,178.50,2026-04-01
+SO-10366,East,Notebook pack,2,12.50,,2026-08-20
+SO-10367,Central,Keyboard,34,89.00,151.30,2026-09-10
+SO-10368,South,Desk lamp,37,39.90,,2026-01-26
+SO-10369,South,Keyboard,17,89.00,75.65,2026-07-20
+SO-10370,Central,Keyboard,16,89.00,71.20,2026-08-26
+SO-10371,South,Mouse,14,29.50,,2026-01-27
+SO-10372,West,Notebook pack,1,12.50,,2026-07-17
+SO-10373,Central,Notebook pack,31,12.50,38.75,2026-08-26
+SO-10374,North,Notebook pack,34,12.50,42.50,2026-09-03
+SO-10375,South,Desk lamp,10,39.90,,2026-04-12
+SO-10376,West,Notebook pack,26,12.50,,2026-09-12
+SO-10377,North,Printer paper,32,21.00,,2026-05-18
+SO-10378,North,Headset,8,119.00,,2026-03-31
+SO-10379,Central,Notebook pack,29,12.50,36.25,2026-09-27
+SO-10380,South,Desk lamp,20,39.90,,2026-08-19
+SO-10381,Central,Headset,12,119.00,142.80,2026-01-28
+SO-10382,East,Printer paper,9,21.00,,2026-05-23
+SO-10383,Central,Keyboard,23,89.00,204.70,2026-07-07
+SO-10384,South,Keyboard,12,89.00,,2026-05-20
+SO-10385,North,Monitor stand,19,59.00,,2026-02-22
+SO-10386,Central,Mouse,9,29.50,13.28,2026-02-13
+SO-10387,South,Desk lamp,19,39.90,,2026-03-06
+SO-10388,South,Office chair,13,249.00,,2026-03-06
+SO-10389,South,Notebook pack,27,12.50,,2026-07-02
+SO-10390,East,Mouse,19,29.50,,2026-02-09
+SO-10391,Central,Keyboard,37,89.00,329.30,2026-06-19
+SO-10392,North,Desk lamp,4,39.90,,2026-01-11
+SO-10393,West,Headset,34,119.00,202.30,2026-04-03
+SO-10394,Central,Keyboard,27,89.00,,2026-07-08
+SO-10395,South,Notebook pack,16,12.50,,2026-04-05
+SO-10396,Central,Mouse,39,29.50,,2026-01-02
+SO-10397,South,Mouse,22,29.50,64.90,2026-04-12
+SO-10398,Central,Mouse,6,29.50,8.85,2026-02-09
+SO-10399,North,Notebook pack,32,12.50,,2026-01-06
+SO-10400,East,Office chair,36,249.00,,2026-06-17
+SO-10401,Central,Monitor stand,36,59.00,,2026-01-28
+SO-10402,South,Desk lamp,27,"39,90",,2026-09-06
+SO-10403,South,Mouse,17,29.50,,2026-08-11
+SO-10404,West,Printer paper,36,21.00,,2026-02-26
+SO-10405,West,Monitor stand,16,59.00,47.20,2026-09-19
+SO-10406,South,Keyboard,11,89.00,,2026-04-12
+SO-10407,East,Keyboard,19,89.00,,2026-01-06
+SO-10408,East,Keyboard,35,89.00,155.75,2026-02-17
+SO-10409,North,Monitor stand,11,59.00,,2026-07-20
+SO-10410,West,Printer paper,22,21.00,46.20,2026-08-18
+SO-10411,Central,Office chair,1,249.00,24.90,2026-04-01
+SO-10412,East,Mouse,12,29.50,17.70,2026-09-22
+SO-10413,North,Printer paper,25,21.00,,2026-04-11
+SO-10414,West,Office chair,23,249.00,286.35,2026-08-05
+SO-10415,East,Notebook pack,18,12.50,,2026-09-26
+SO-10416,Central,Office chair,30,249.00,747.00,2026-03-21
+SO-10417,North,Monitor stand,37,59.00,109.15,2026-06-04
+SO-10418,South,Monitor stand,13,59.00,38.35,2026-05-26
+SO-10419,North,Headset,7,119.00,,2026-03-26
+SO-10420,South,Mouse,2,29.50,,2026-08-29
+SO-10421,West,Headset,-2,119.00,,2026-03-30
+SO-10422,North,Notebook pack,14,12.50,,2026-01-30
+SO-10423,North,Printer paper,32,21.00,67.20,2026-07-12
+SO-10424,South,Keyboard,6,89.00,53.40,2026-01-23
+SO-10425,Central,Office chair,5,249.00,124.50,2026-07-27
+SO-10426,East,Desk lamp,27,39.90,,2026-03-31
+SO-10427,North,Printer paper,31,21.00,,2026-03-08
+SO-10428,East,Keyboard,8,89.00,71.20,2026-07-05
+SO-10429,West,Printer paper,34,21.00,,2026-04-13
+SO-10430,West,Printer paper,32,21.00,,2026-05-28
+SO-10431,South,Notebook pack,2,12.50,1.25,2026-05-01
+SO-10432,West,Office chair,4,249.00,,2026-06-06
+SO-10433,South,Headset,17,119.00,101.15,2026-04-04
+SO-10434,Central,Desk lamp,8,39.90,31.92,2026-01-06
+SO-10435,East,Keyboard,13,89.00,115.70,2026-07-07
+SO-10436,West,Mouse,9,29.50,,2026-02-25
+SO-10437,North,Monitor stand,15,59.00,,2026-07-29
+SO-10438,Central,Keyboard,36,89.00,,2026-08-08
+SO-10439,East,Monitor stand,35,59.00,,2026-06-06
+SO-10440,East,Desk lamp,35,39.90,69.83,2026-06-15
+SO-10441,North,Desk lamp,26,39.90,103.74,2026-04-11
+SO-10442,North,Office chair,35,249.00,,2026-02-22
+SO-10443,Central,Office chair,19,249.00,,2026-03-04
+SO-10444,East,Desk lamp,16,39.90,,2026-01-23
+SO-10445,West,Mouse,30,29.50,,2026-01-15
+SO-10446,East,Keyboard,13,89.00,,2026-03-03
+SO-10447,Central,Monitor stand,30,59.00,,2026-04-21
+SO-10448,East,Desk lamp,21,39.90,41.90,2026-07-29
+SO-10449,East,Office chair,16,249.00,,2026-04-28
+SO-10450,East,Headset,39,119.00,,2026-08-30
+SO-10451,South,Headset,37,119.00,440.30,2026-08-21
+SO-10452,West,Printer paper,17,21.00,,2026-06-12
+SO-10453,North,Mouse,23,29.50,,2026-01-04
+SO-10454,South,Desk lamp,36,39.90,,2026-03-02
+SO-10455,North,Notebook pack,31,12.50,,2026-09-17
+SO-10456,West,Printer paper,11,21.00,,2026-02-11
+SO-10457,Central,Monitor stand,2,59.00,11.80,2026-04-29
+SO-10458,West,Mouse,35,29.50,51.62,2026-05-29
+SO-10459,North,Headset,27,119.00,,2026-05-03
+SO-10460,South,Desk lamp,24,39.90,,2026-04-14
+SO-10461,East,Desk lamp,11,39.90,43.89,2026-09-12
+SO-10462,West,Office chair,4,249.00,,2026-09-10
+SO-10463,West,Monitor stand,30,59.00,88.50,2026-03-14
+SO-10464,East,Printer paper,9,21.00,,2026-03-02
+SO-10465,North,Headset,7,119.00,,2026-01-25
+SO-10466,South,Headset,9,119.00,53.55,2026-06-10
+SO-10467,Central,Desk lamp,40,39.90,159.60,2026-06-30
+SO-10468,East,Monitor stand,6,59.00,17.70,2026-06-22
+SO-10469,Central,Office chair,15,249.00,373.50,2026-01-13
+SO-10470,North,Printer paper,9,21.00,,2026-03-15
+SO-10471,South,Mouse,4,29.50,5.90,2026-07-13
+SO-10472,East,Headset,4,119.00,47.60,2026-03-22
+SO-10473,Central,Mouse,10,29.50,,2026-09-05
+SO-10474,Central,Mouse,1,29.50,2.95,2026-07-27
+SO-10475,Central,Keyboard,39,89.00,347.10,2026-09-03
+SO-10476,north,Notebook pack,7,12.50,,2026-01-11
+SO-10477,North,Monitor stand,32,59.00,,2026-07-22
+SO-10478,East,Keyboard,39,89.00,173.55,2026-01-05
+SO-10479,East,Notebook pack,14,12.50,,2026-08-08
+SO-10480,East,Monitor stand,27,59.00,79.65,2026-08-18
+SO-10481,Central,Desk lamp,28,39.90,111.72,2026-09-07
+SO-10482,West,Headset,32,119.00,380.80,2026-04-28
+SO-10483,Central,Desk lamp,9,39.90,35.91,2026-08-05
+SO-10484,West,Headset,5,119.00,,2026-02-16
+SO-10485,East,Monitor stand,9,59.00,,2026-07-06
+SO-10486,West,Printer paper,36,21.00,,2026-04-24
+SO-10487,West,Notebook pack,38,12.50,47.50,2026-09-22
+SO-10488,West,Headset,17,119.00,202.30,2026-06-16
+SO-10489,West,Monitor stand,5,59.00,,2026-05-21
+SO-10490,Central,Mouse,23,29.50,33.93,2026-02-20
+SO-10491,North,Headset,31,119.00,,2026-03-03
+SO-10492,Central,Office chair,18,249.00,224.10,2026-08-30
+SO-10493,North,Printer paper,27,21.00,28.35,2026-09-07
+SO-10494,West,Monitor stand,23,59.00,135.70,2026-03-14
+SO-10495,North,Notebook pack,7,12.50,4.38,2026-06-05
+SO-10496,North,Keyboard,5,89.00,,2026-09-07
+SO-10497,South,Monitor stand,16,59.00,,2026-05-19
+SO-10498,East,Notebook pack,4,12.50,5.00,2026-09-04
+SO-10499,Central,Office chair,36,249.00,896.40,2026-09-16
+SO-10500,Central,Printer paper,20,21.00,42.00,2026-05-15
+SO-10501,Central,Desk lamp,28,39.90,,2026-07-10
+SO-10502,West,Monitor stand,17,59.00,,2026-05-10
+SO-10503,South,Mouse,33,29.50,,2026-01-08
+SO-10504,East,Keyboard,25,89.00,,2026-04-16
+SO-10505,North,Printer paper,19,21.00,,2026-05-20
+SO-10506,South,Keyboard,30,89.00,133.50,2026-07-31
+SO-10507,North,Office chair,39,249.00,,2026-08-14
+SO-10508,Central,Monitor stand,39,59.00,,2026-01-20
+SO-10509,North,Printer paper,32,21.00,33.60,2026-06-21
+SO-10510,Central,Headset,11,119.00,,2026-04-16
+SO-10511,West,Headset,8,119.00,,2026-02-08
+SO-10512,Central,Notebook pack,12,12.50,,2026-05-21
+SO-10513,East,Headset,5,119.00,59.50,2026-08-06
+SO-10514,Central,Keyboard,3,89.00,,2026-08-27
+SO-10515,Central,Monitor stand,-4,59.00,,2026-05-10
+SO-10516,Central,Keyboard,29,89.00,,2026-06-26
+SO-10517,Central,Office chair,30,249.00,,2026-01-09
+SO-10518,East,Mouse,36,29.50,,2026-03-22
+SO-10519,North,Printer paper,39,21.00,81.90,2026-07-08
+SO-10520,North,Headset,39,119.00,,2026-03-25
+SO-10521,South,Office chair,35,249.00,,2026-01-21
+SO-10522,North,Monitor stand,1,59.00,,2026-01-12
+SO-10523,Central,Printer paper,31,21.00,,2026-08-23
+SO-10524,West,Notebook pack,24,12.50,30.00,2026-05-25
+SO-10525,East,Office chair,2,249.00,,2026-04-29
+SO-10526,South,Printer paper,2,21.00,,2026-09-10
+SO-10527,Central,Monitor stand,29,59.00,,2026-09-02
+SO-10528,East,Keyboard,40,89.00,,2026-06-29
+SO-10529,North,Office chair,28,249.00,,2026-09-14
+SO-10530,North,Office chair,17,249.00,,2026-09-19
+SO-10531,South,Keyboard,15,89.00,,2026-09-20
+SO-10532,South,Notebook pack,38,12.50,23.75,2026-05-31
+SO-10533,South,Keyboard,22,89.00,195.80,2026-02-14
+SO-10534,South,Notebook pack,40,12.50,,2026-07-05
+SO-10535,South,Notebook pack,32,12.50,20.00,2026-06-02
+SO-10536,South,Printer paper,37,21.00,,2026-08-15
+SO-10537,East,Mouse,5,29.50,,2026-09-18
+SO-10538,West,Monitor stand,37,59.00,218.30,2026-07-16
+SO-10539,Central,Monitor stand,19,59.00,,2026-08-28
+SO-10540,North,Printer paper,37,21.00,,2026-09-06
+SO-10541,East,Printer paper,14,21.00,,2026-08-09
+SO-10542,South,Mouse,37,29.50,,2026-07-10
+SO-10543,Central,Monitor stand,21,59.00,,2026-05-26
+SO-10544,East,Notebook pack,20,12.50,,2026-03-17
+SO-10545,North,Mouse,27,29.50,,2026-09-22
+SO-10546,North,Desk lamp,40,39.90,159.60,2026-01-09
+SO-10547,North,Headset,25,119.00,297.50,2026-03-16
+SO-10548,South,Headset,8,119.00,47.60,2026-09-16
+SO-10549,South,Keyboard,35,89.00,311.50,2026-02-23
+SO-10550,South,Monitor stand,27,59.00,,2026-01-25
+SO-10551,North,Keyboard,16,89.00,,2026-06-27
+SO-10552,South,Headset,25,119.00,,2026-08-09
+SO-10553,West,Desk lamp,14,39.90,,2026-06-26
+SO-10554,Central,Keyboard,33,89.00,,2026-03-29
+SO-10555,North,Printer paper,6,21.00,,2026-03-10
+SO-10556,East,Keyboard,23,89.00,,2026-06-12
+SO-10557,South,Mouse,24,29.50,,2026-08-14
+SO-10558,North,Desk lamp,29,39.90,115.71,2026-05-28
+SO-10559,North,Mouse,11,29.50,32.45,2026-04-24
+SO-10560,West,Headset,2,119.00,,2026-01-22
+SO-10561,Central,Keyboard,15,89.00,,2026-07-18
+SO-10562,East,Headset,17,119.00,,2026-06-16
+SO-10563,North,Headset,7,119.00,,2026-07-19
+SO-10564,South,Office chair,8,249.00,,2026-01-04
+SO-10565,West,Printer paper,31,21.00,,2026-05-22
+SO-10566,Central,Office chair,6,249.00,,2026-05-09
+SO-10567,North,Notebook pack,28,12.50,35.00,2026-06-26
+SO-10568,East,Notebook pack,22,12.50,,2026-03-05
+SO-10569,Central,Monitor stand,8,59.00,,2026-01-30
+SO-10570,Central,Notebook pack,6,12.50,,2026-09-23
+SO-10571,Central,Mouse,11,29.50,,2026-03-29
+SO-10572,North,Desk lamp,14,39.90,,2026-04-25
+SO-10573,West,Notebook pack,15,12.50,9.38,2026-05-29
+SO-10574,East,Office chair,39,249.00,971.10,2026-05-11
+SO-10575,South,Desk lamp,38,39.90,75.81,2026-09-11
+SO-10576,Central,Mouse,24,29.50,,2026-07-26
+SO-10577,Central,Keyboard,24,89.00,213.60,2026-09-19
+SO-10578,South,Notebook pack,33,12.50,,2026-09-01
+SO-10579,North,Printer paper,3,21.00,,2026-02-01
+SO-10580,East,Notebook pack,8,12.50,,2026-05-29
+SO-10581,North,Notebook pack,23,12.50,,2026-08-25
+SO-10582,East,Desk lamp,2,39.90,7.98,2026-06-25
+SO-10583,West,Mouse,39,29.50,115.05,2026-05-19
+SO-10584,East,Office chair,2,249.00,,2026-04-21
+SO-10585,South,Desk lamp,32,39.90,63.84,2026-07-12
+SO-10586,East,Keyboard,12,89.00,106.80,2026-01-08
+SO-10587,Central,Monitor stand,7,59.00,,2026-06-18
+SO-10588,North,Monitor stand,23,59.00,,2026-04-17
+SO-10589,North,Headset,40,119.00,,2026-02-26
+SO-10590, South,Mouse,18,29.50,,2026-03-05
+SO-10591,West,Mouse,19,29.50,56.05,2026-05-20
+SO-10592,West,Headset,22,119.00,,2026-07-22
+SO-10593,North,Printer paper,19,21.00,39.90,2026-05-06
+SO-10594,North,Mouse,10,29.50,,2026-02-19
+SO-10595,East,Office chair,6,249.00,,2026-07-03
+SO-10596,West,Printer paper,12,21.00,,2026-01-31
+SO-10597,North,Keyboard,32,89.00,,2026-03-01
+SO-10598,South,Desk lamp,9,39.90,,2026-03-28
+SO-10599,North,Monitor stand,21,59.00,,2026-01-13
+SO-10600,North,Notebook pack,19,12.50,,2026-07-10
+SO-10601,East,Office chair,13,249.00,161.85,2026-08-21
+SO-10602,West,Desk lamp,25,39.90,,2026-04-10
+SO-10603,North,Printer paper,20,21.00,,2026-07-10
+SO-10604,East,Printer paper,39,21.00,,2026-02-07
+SO-10605,Central,Keyboard,15,89.00,,2026-06-14
+SO-10606,North,Headset,28,119.00,166.60,2026-04-04
+SO-10607,West,Printer paper,35,21.00,,2026-08-12
+SO-10608,South,Headset,22,119.00,,2026-08-26
+SO-10609,North,Notebook pack,20,12.50,,2026-01-14
+SO-10610,North,Printer paper,40,,,2026-09-04
+SO-10611,West,Notebook pack,30,12.50,,2026-07-08
+SO-10612,Central,Keyboard,23,89.00,,2026-07-30
+SO-10613,East,Mouse,5,29.50,,2026-03-30
+SO-10614,Central,Keyboard,15,89.00,66.75,2026-06-28
+SO-10615,West,Keyboard,15,89.00,,2026-05-20
+SO-10616,West,Monitor stand,32,59.00,94.40,2026-05-28
+SO-10617,North,Headset,19,119.00,,2026-07-03
+SO-10618,South,Desk lamp,31,39.90,,2026-07-20
+SO-10619,West,Keyboard,8,89.00,,2026-02-06
+SO-10620,South,Printer paper,35,21.00,,2026-03-27
+SO-10621,Central,Desk lamp,17,39.90,,2026-03-27
+SO-10622,West,Keyboard,14,89.00,124.60,2026-02-25
+SO-10623,North,Mouse,36,29.50,,2026-08-10
+SO-10624,South,Printer paper,19,21.00,,2026-05-06
+SO-10625,Central,Desk lamp,8,39.90,15.96,2026-09-08
+SO-10626,Central,Monitor stand,14,59.00,,2026-09-08
+SO-10627,Central,Keyboard,24,89.00,,2026-04-13
+SO-10628,North,Desk lamp,21,39.90,,2026-03-18
+SO-10629,Central,Monitor stand,31,59.00,,2026-02-14
+SO-10630,West,Desk lamp,10,39.90,,2026-05-26
+SO-10631,South,Headset,33,119.00,196.35,2026-07-27
+SO-10632,Central,Monitor stand,36,59.00,106.20,2026-07-17
+SO-10633,West,Notebook pack,36,12.50,,2026-06-17
+SO-10634,West,Office chair,36,249.00,,2026-09-08
+SO-10635,South,Keyboard,19,89.00,169.10,2026-08-16
+SO-10636,West,Headset,35,119.00,,2026-09-10
+SO-10637,North,Printer paper,14,21.00,29.40,2026-04-04
+SO-10638,East,Keyboard,17,89.00,,2026-07-25
+SO-10639,North,Keyboard,11,89.00,,2026-06-01
+SO-10640,EAST,Desk lamp,38,39.90,,2026-01-25
+SO-10641,North,Notebook pack,36,12.50,,2026-03-16
+SO-10642,West,Monitor stand,24,59.00,,2026-07-23
+SO-10643,East,Office chair,28,249.00,,2026-04-13
+SO-10644,West,Keyboard,17,89.00,,2026-08-08
+SO-10645,South,Desk lamp,7,39.90,,2026-05-01
+SO-10646,West,Desk lamp,34,39.90,67.83,2026-02-17
+SO-10647,West,Notebook pack,7,12.50,,2026-04-22
+SO-10648,South,Headset,24,119.00,,2026-07-12
+SO-10649,West,Printer paper,12,21.00,,2026-04-13
+SO-10650,West,Printer paper,20,21.00,,2026-07-17
+SO-10651,North,Office chair,5,249.00,,2026-07-23
+SO-10652,East,Desk lamp,29,39.90,,2026-06-21
+SO-10653,North,Notebook pack,15,12.50,,2026-05-28
+SO-10654,South,Keyboard,23,89.00,204.70,2026-09-07
+SO-10655,North,Headset,3,119.00,,2026-06-01
+SO-10656,North,Desk lamp,32,39.90,63.84,2026-07-05
+SO-10657,North,Office chair,30,249.00,,2026-06-16
+SO-10658,East,Printer paper,38,21.00,,2026-07-04
+SO-10659,East,Monitor stand,34,59.00,,2026-01-02
+SO-10660,South,Keyboard,8,89.00,35.60,2026-08-01
+SO-10661,East,Notebook pack,31,12.50,,2026-06-30
+SO-10662,West,Notebook pack,34,12.50,,2026-01-07
+SO-10663,South,Desk lamp,16,39.90,31.92,2026-08-18
+SO-10664,South,Notebook pack,22,12.50,,2026-08-04
+SO-10665,Central,Printer paper,36,21.00,37.80,2026-08-14
+SO-10666,East,Headset,33,119.00,,2026-09-19
+SO-10667,North,Monitor stand,21,59.00,,2026-06-19
+SO-10668,West,Mouse,8,29.50,23.60,2026-02-23
+SO-10669,South,Headset,10,119.00,,2026-05-18
+SO-10670,South,Headset,34,119.00,202.30,2026-07-25
+SO-10671,East,Printer paper,34,21.00,,2026-01-11
+SO-10672,Central,Desk lamp,26,39.90,103.74,2026-03-14
+SO-10673,Central,Office chair,20,249.00,249.00,2026-08-14
+SO-10674,South,Keyboard,21,89.00,93.45,2026-06-29
+SO-10675,South,Notebook pack,21,12.50,13.12,2026-02-25
+SO-10676,Central,Notebook pack,29,12.50,,2026-04-30
+SO-10677,North,Office chair,8,249.00,,2026-09-16
+SO-10678,Central,Monitor stand,36,59.00,212.40,2026-07-16
+SO-10679,North,Office chair,12,249.00,,2026-01-11
+SO-10680,West,Headset,30,119.00,,2026-08-31
+SO-10681,Central,Printer paper,15,21.00,,2026-02-06
+SO-10682,East,Keyboard,14,89.00,62.30,2026-09-16
+SO-10683,North,Desk lamp,9,39.90,35.91,2026-01-10
+SO-10684,Central,Headset,12,119.00,,2026-09-01
+SO-10685,West,Office chair,25,249.00,,2026-07-10
+SO-10686,West,Desk lamp,30,39.90,,2026-02-12
+SO-10687,South,Notebook pack,14,12.50,17.50,2026-09-14
+SO-10688,Central,Desk lamp,27,"39,90",,2026-02-01
+SO-10689,South,Notebook pack,15,12.50,18.75,2026-03-27
+SO-10690,Central,Mouse,31,29.50,,2026-06-15
+SO-10691,East,Printer paper,4,21.00,,2026-09-28
+SO-10692,West,Keyboard,37,89.00,,2026-03-08
+SO-10693,North,Headset,28,119.00,333.20,2026-08-26
+SO-10694,Central,Desk lamp,6,39.90,,2026-01-24
+SO-10695,South,Headset,18,119.00,214.20,2026-02-02
+SO-10696,East,Printer paper,27,21.00,,2026-08-21
+SO-10697,North,Mouse,15,29.50,22.12,2026-06-12
+SO-10698,Central,Headset,36,119.00,214.20,2026-08-10
+SO-10699,South,Desk lamp,24,39.90,,2026-08-12
+SO-10700,South,Monitor stand,22,59.00,,2026-06-18
+SO-10701,North,Notebook pack,26,12.50,32.50,2026-01-06
+SO-10702,West,Office chair,29,249.00,,2026-09-17
+SO-10703,Central,Printer paper,16,21.00,,2026-01-03
+SO-10704,North,Monitor stand,38,59.00,,2026-07-20
+SO-10705,South,Mouse,3,29.50,8.85,2026-07-30
+SO-10706,North,Keyboard,34,89.00,302.60,2026-04-03
+SO-10707,Central,Headset,28,119.00,166.60,2026-02-16
+SO-10708,East,Office chair,22,249.00,547.80,2026-01-30
+SO-10709,Central,Desk lamp,23,39.90,,2026-01-31
+SO-10710,North,Desk lamp,11,39.90,,2026-06-07
+SO-10711,Central,Desk lamp,16,39.90,,2026-07-28
+SO-10712,East,Notebook pack,24,12.50,15.00,2026-04-29
+SO-10713,North,Office chair,15,249.00,,2026-08-14
+SO-10714,West,Monitor stand,18,59.00,53.10,2026-03-24
+SO-10715,West,Keyboard,7,89.00,,2026-01-19
+SO-10716,East,Mouse,18,29.50,26.55,2026-03-15
+SO-10717,South,Mouse,36,29.50,,2026-05-17
+SO-10718,North,Desk lamp,24,39.90,,2026-06-16
+SO-10719,Central,Headset,16,119.00,,2026-07-21
+SO-10720,East,Headset,26,119.00,,2026-08-22
+SO-10721,South,Monitor stand,35,59.00,206.50,2026-09-11
+SO-10722,East,Office chair,23,249.00,,2026-08-29
+SO-10723,East,Headset,9,119.00,,2026-05-12
+SO-10724,Central,Mouse,28,29.50,41.30,2026-03-22
+SO-10725,Central,Office chair,4,249.00,,2026-03-24
+SO-10726,Central,Keyboard,1,89.00,4.45,2026-01-11
+SO-10727,North,Office chair,35,249.00,871.50,2026-09-24
+SO-10728,East,Keyboard,35,89.00,155.75,2026-04-03
+SO-10729,North,Headset,33,119.00,,2026-01-27
+SO-10730,West,Keyboard,33,89.00,146.85,2026-07-16
+SO-10731,East,Desk lamp,19,39.90,,2026-02-25
+SO-10732,South,Office chair,24,249.00,,2026-06-13
+SO-10733,West,Keyboard,2,89.00,8.90,2026-04-16
+SO-10734,South,Printer paper,1 745,21.00,,2026-05-29
+SO-10735,North,Headset,16,119.00,,2026-09-19
+SO-10736,East,Printer paper,14,21.00,29.40,2026-07-21
+SO-10737,East,Printer paper,28,21.00,58.80,2026-01-20
+SO-10738,Central,Desk lamp,26,39.90,,2026-08-05
+SO-10739,West,Desk lamp,31,39.90,,2026-05-05
+SO-10740,West,Desk lamp,22,39.90,,2026-05-02
+SO-10741,West,Monitor stand,23,59.00,,2026-02-13
+SO-10742,East,Monitor stand,1,59.00,,2026-09-01
+SO-10743,West,Notebook pack,19,12.50,,2026-09-07
+SO-10744,Central,Keyboard,35,89.00,,2026-03-13
+SO-10745,South,Monitor stand,30,59.00,,2026-08-30
+SO-10746,South,Desk lamp,15,39.90,29.93,2026-02-10
+SO-10747,West,Printer paper,33,21.00,69.30,2026-09-05
+SO-10748,South,Headset,19,119.00,,2026-05-14
+SO-10749,West,Printer paper,23,21.00,24.15,2026-05-15
+SO-10750,East,Desk lamp,28,39.90,55.86,2026-09-23
+Order ID,Region,Product,Quantity ,Unit Price,Discount,Order Date
+SO-10751,Central,Printer paper,32,21.00,,2026-05-26
+SO-10752,East,Desk lamp,7,39.90,13.97,2026-07-24
+SO-10753,East,Mouse,13,29.50,38.35,2026-02-14
+SO-10754,North,Desk lamp,5,39.90,9.98,2026-02-23
+SO-10755,East,Monitor stand,21,59.00,,2026-01-25
+SO-10756,North,Notebook pack,36,12.50,22.50,2026-04-23
+SO-10757,East,Notebook pack,28,12.50,,2026-03-14
+SO-10758,West,Printer paper,34,21.00,35.70,2026-03-16
+SO-10759,West,Printer paper,2,21.00,,2026-05-26
+SO-10760,Central,Headset,1,119.00,,2026-04-27
+SO-10761,South,Keyboard,15,89.00,,2026-06-14
+SO-10762,West,Monitor stand,38,59.00,,2026-08-13
+SO-10763,North,Keyboard,39,89.00,,2026-09-06
+SO-10764,East,Monitor stand,13,59.00,,2026-02-19
+SO-10765,South,Mouse,33,29.50,,2026-08-23
+SO-10766,East,Office chair,24,249.00,,2026-06-30
+SO-10767,Central,Notebook pack,17,12.50,,2026-01-09
+SO-10768,North,Mouse,21,29.50,,2026-03-06
+SO-10769,North,Notebook pack,34,12.50,,2026-02-08
+SO-10770,West,Monitor stand,24,59.00,,2026-04-17
+SO-10771,South,Desk lamp,40,39.90,,2026-01-14
+SO-10772,Central,Keyboard,13,89.00,57.85,2026-05-26
+SO-10773,South,Office chair,10,249.00,,2026-03-05
+SO-10774,Central,Monitor stand,8,59.00,,2026-06-16
+SO-10775,West,Desk lamp,7,39.90,27.93,2026-01-03
+SO-10776,South,Office chair,3,249.00,,2026-05-03
+SO-10777,South,Mouse,2,29.50,,2026-03-04
+SO-10778,North,Mouse,32,29.50,,2026-09-01
+SO-10779,Central,Notebook pack,-5,12.50,,2026-05-02
+SO-10780,South,Printer paper,35,21.00,,2026-07-08
+SO-10781,South,Headset,29,119.00,345.10,2026-06-02
+SO-10782,East,Monitor stand,30,59.00,88.50,2026-01-28
+SO-10783,East,Headset,22,119.00,130.90,2026-03-10
+SO-10784,South,Monitor stand,31,59.00,,2026-03-04
+SO-10785,South,Desk lamp,3,39.90,,2026-01-20
+SO-10786,East,Monitor stand,17,59.00,,2026-09-05
+SO-10787,South,Printer paper,12,21.00,25.20,2026-02-01
+SO-10788,North,Printer paper,2,21.00,,2026-08-18
+SO-10789,West,Headset,31,119.00,368.90,2026-04-02
+SO-10790,East,Office chair,1,249.00,,2026-09-10
+SO-10791,South,Notebook pack,24,12.50,,2026-04-26
+SO-10792,Central,Headset,26,119.00,,2026-02-01
+SO-10793,West,Notebook pack,2,12.50,,2026-05-29
+SO-10794,East,Notebook pack,11,12.50,,2026-05-26
+SO-10795,East,Desk lamp,28,39.90,,2026-04-21
+SO-10796,West,Printer paper,2,21.00,,2026-06-07
+SO-10797,North,Desk lamp,18,39.90,71.82,2026-03-12
+SO-10798,East,Desk lamp,29,39.90,,2026-07-18
+SO-10799,North,Printer paper,5,21.00,,2026-07-17
+SO-10800,West,Notebook pack,32,12.50,20.00,2026-03-26
+SO-10801,West,Headset,21,119.00,249.90,2026-08-20
+SO-10802,East,Headset,22,119.00,,2026-01-29
+SO-10803,North,Office chair,37,249.00,921.30,2026-09-20
+SO-10804,East,Desk lamp,32,39.90,,2026-09-21
+SO-10805,East,Keyboard,26,89.00,231.40,2026-08-13
+SO-10806,Central,Mouse,11,29.50,32.45,2026-07-19
+SO-10807,West,Mouse,19,29.50,56.05,2026-04-22
+SO-10808,East,Mouse,18,29.50,53.10,2026-08-22
+SO-10809,North,Notebook pack,22,12.50,27.50,2026-08-14
+SO-10810,East,Headset,36,119.00,,2026-01-15
+SO-10811,West,Keyboard,18,89.00,,2026-03-04
+SO-10812,East,Desk lamp,6,39.90,,2026-01-15
+SO-10813,North,Keyboard,23,89.00,204.70,2026-02-20
+SO-10814,East,Headset,5,119.00,,2026-06-09
+SO-10815,North,Office chair,12,249.00,,2026-03-31
+SO-10816,West,Notebook pack,12,12.50,7.50,2026-02-08
+SO-10817,South,Monitor stand,12,59.00,,2026-07-05
+SO-10818,West,Headset,38,119.00,,2026-02-10
+SO-10819,West,Headset,29,119.00,,2026-09-03
+SO-10820,East,Monitor stand,3,59.00,17.70,2026-03-01
+SO-10821,East,Monitor stand,32,59.00,188.80,2026-05-02
+SO-10822,West,Monitor stand,4,59.00,,2026-06-24
+SO-10822,West,Monitor stand,4,59.00,,2026-06-24
+SO-10823,South,Headset,29,119.00,172.55,2026-01-15
+SO-10824,East,Printer paper,20,21.00,21.00,2026-02-12
+SO-10825,East,Office chair,6,249.00,149.40,2026-03-17
+SO-10826,South,Notebook pack,38,12.50,,2026-09-29
+SO-10827,Central,Mouse,4,29.50,,2026-01-10
+SO-10828,South,Printer paper,20,21.00,,2026-05-14
+SO-10829,West,Notebook pack,17,12.50,,2026-01-14
+SO-10830,South,Keyboard,9,89.00,40.05,2026-08-07
+SO-10831,West,Headset,1,119.00,,2026-01-08
+SO-10832,Central,Office chair,3,249.00,,2026-08-27
+SO-10833,South,Office chair,19,249.00,473.10,2026-04-30
+SO-10834,East,Headset,34,119.00,,2026-07-26
+SO-10835,Central,Desk lamp,9,39.90,,2026-09-27
+SO-10836,North,Printer paper,23,21.00,48.30,2026-09-08
+SO-10837,Central,Keyboard,31,89.00,,2026-09-26
+SO-10838,Central,Monitor stand,12,59.00,35.40,2026-06-20
+SO-10839,West,Office chair,23,249.00,572.70,2026-06-10
+SO-10840,West,Keyboard,21,89.00,,2026-01-10
+SO-10841,West,Printer paper,28,21.00,29.40,2026-04-19
+SO-10842,East,Keyboard,19,89.00,,2026-05-10
+SO-10843,North,Notebook pack,25,12.50,,2026-02-23
+SO-10844,South,Printer paper,8,21.00,,2026-05-02
+SO-10845,south,Keyboard,14,89.00,,2026-07-04
+SO-10846,West,Notebook pack,33,12.50,,2026-09-02
+SO-10847,West,Keyboard,11,89.00,,2026-06-04
+SO-10848,South,Desk lamp,31,39.90,123.69,2026-06-25
+SO-10849,South,Mouse,30,29.50,44.25,2026-04-20
+SO-10850,North,Office chair,22,249.00,,2026-05-08
+SO-10851,South,Keyboard,31,89.00,,2026-06-19
+SO-10852,East,Keyboard,5,89.00,44.50,2026-09-29
+SO-10853,North,Desk lamp,39,39.90,,2026-08-22
+SO-10854,East,Monitor stand,35,59.00,,2026-01-19
+SO-10855,South,Notebook pack,15,12.50,18.75,2026-08-07
+SO-10856,South,Printer paper,3,21.00,6.30,2026-04-09
+SO-10857,South,Office chair,40,249.00,,2026-09-14
+SO-10858,North,Office chair,21,249.00,,2026-05-27
+SO-10859,Central,Monitor stand,32,59.00,94.40,2026-06-02
+SO-10860,Central,Headset,19,119.00,,2026-06-08
+SO-10861,Central,Keyboard,30,89.00,,2026-09-19
+SO-10862,South,Notebook pack,12,12.50,7.50,2026-09-05
+SO-10863,Central,Notebook pack,24,12.50,,2026-04-11
+SO-10864,South,Desk lamp,10,39.90,39.90,2026-05-15
+SO-10865,North,Headset,34,119.00,,2026-08-19
+SO-10866,North,Monitor stand,9,59.00,,2026-03-08
+SO-10867,North,Office chair,32,249.00,796.80,2026-01-08
+SO-10868,East,Mouse,2,29.50,,2026-03-10
+SO-10869,West,Keyboard,1,89.00,8.90,2026-07-17
+SO-10870,Central,Keyboard,38,89.00,,2026-05-10
+SO-10871,South,Keyboard,40,89.00,,2026-08-17
+SO-10872,East,Monitor stand,37,59.00,,2026-07-21
+SO-10873,South,Office chair,31,249.00,,2026-05-04
+SO-10874,Central,Desk lamp,4,39.90,,2026-06-28
+SO-10875,West,Keyboard,15,89.00,,2026-09-19
+SO-10876,East,Headset,5,119.00,,2026-01-23
+SO-10877,South,Monitor stand,16,59.00,,2026-07-16
+SO-10878,East,Mouse,27,29.50,79.65,2026-08-09
+SO-10879,North,Mouse,22,29.50,64.90,2026-01-29
+SO-10880,Central,Printer paper,2,21.00,4.20,2026-04-11
+SO-10881,South,Office chair,34,249.00,,2026-08-12
+SO-10882,East,Office chair,27,249.00,336.15,2026-01-19
+SO-10883,East,Desk lamp,9,39.90,,2026-03-02
+SO-10884,South,Headset,9,119.00,107.10,2026-03-21
+SO-10885,Central,Notebook pack,30,12.50,,2026-08-31
+SO-10886,North,Office chair,3,249.00,,2026-03-25
+SO-10887,North,Printer paper,26,21.00,,2026-01-28
+SO-10888,East,Headset,9,119.00,,2026-08-16
+SO-10889,Central,Keyboard,30,89.00,133.50,2026-08-21
+SO-10890,North,Keyboard,24,89.00,106.80,2026-04-15
+SO-10891,North,Keyboard,9,89.00,40.05,2026-05-08
+SO-10892,North,Headset,11,119.00,,2026-09-27
+SO-10893,East,Office chair,30,249.00,,2026-07-11
+SO-10894,Central,Keyboard,8,89.00,71.20,2026-04-06
+SO-10895,East,Headset,11,119.00,130.90,2026-07-13
+SO-10896,West,Mouse,28,29.50,82.60,2026-08-06
+SO-10897,East,Desk lamp,7,39.90,,2026-06-01
+SO-10898,South,Notebook pack,28,12.50,,2026-09-16
+SO-10899,South,Keyboard,19,89.00,,2026-01-04
+SO-10900,East,Monitor stand,24,59.00,,2026-06-16
+SO-10901,Central,Keyboard,33,89.00,,2026-03-17
+SO-10902,Central,Monitor stand,4,59.00,11.80,2026-03-30
+SO-10903,South,Monitor stand,35,59.00,103.25,2026-01-10
+SO-10904,Central,Headset,14,119.00,83.30,2026-04-19
+SO-10905,Central,Desk lamp,10,39.90,,2026-05-31
+SO-10906,South,Printer paper,30,21.00,63.00,2026-08-26
+SO-10907,South,Mouse,4,29.50,5.90,2026-01-10
+SO-10908,North,Printer paper,27,21.00,28.35,2026-08-30
+SO-10909,North,Printer paper,16,21.00,33.60,2026-04-26
+SO-10910,North,Office chair,36,249.00,896.40,2026-07-30
+SO-10911,Central,Mouse,11,"29,50",32.45,2026-01-02
+SO-10912,North,Mouse,19,29.50,28.03,2026-07-05
+SO-10913,Central,Keyboard,15,89.00,,2026-03-17
+SO-10914,West,Keyboard,14,89.00,62.30,2026-07-03
+SO-10915,East,Monitor stand,4,59.00,,2026-07-12
+SO-10916,North,Headset,1,119.00,,2026-03-31
+SO-10917,South,Keyboard,10,89.00,,2026-08-21
+SO-10918,West,Keyboard,40,89.00,,2026-08-20
+SO-10919,North,Keyboard,21,89.00,,2026-04-05
+SO-10920,North,Desk lamp,4,39.90,,2026-04-22
+SO-10921,North,Desk lamp,36,39.90,143.64,2026-07-05
+SO-10922,Central,Office chair,38,249.00,,2026-09-27
+SO-10923,West,Printer paper,1,21.00,,2026-03-09
+SO-10924,West,Notebook pack,31,12.50,,2026-04-10
+SO-10925,East,Headset,25,119.00,,2026-08-27
+SO-10926,South,Mouse,36,29.50,53.10,2026-06-08
+SO-10927,West,Office chair,36,249.00,448.20,2026-06-30
+SO-10928,Central,Printer paper,36,21.00,,2026-01-29
+SO-10929,East,Notebook pack,34,12.50,,2026-06-14
+SO-10930,Central,Printer paper,12,21.00,,2026-07-24
+SO-10931,Central,Notebook pack,38,12.50,23.75,2026-06-21
+SO-10932,West,Desk lamp,29,39.90,,2026-03-15
+SO-10933,South,Printer paper,36,21.00,75.60,2026-06-16
+SO-10934,North,Notebook pack,17,12.50,,2026-09-24
+SO-10935,Central,Mouse,13,29.50,,2026-02-08
+SO-10936,South,Keyboard,4,89.00,,2026-04-06
+SO-10937,South,Desk lamp,26,39.90,,2026-04-09
+SO-10938,East,Headset,11,119.00,130.90,2026-08-06
+SO-10939,South,Office chair,19,249.00,236.55,2026-08-13
+SO-10940,Central,Keyboard,14,89.00,,2026-07-14
+SO-10941,East,Printer paper,34,21.00,71.40,2026-08-17
+SO-10942,Central,Keyboard,31,89.00,,2026-02-16
+SO-10943,Central,Printer paper,1,21.00,,2026-05-09
+SO-10944,Central,Notebook pack,4,12.50,5.00,2026-05-15
+SO-10945,North,Printer paper,14,21.00,29.40,2026-07-23
+SO-10946,Central,Headset,19,119.00,226.10,2026-08-07
+SO-10947,East,Printer paper,28,21.00,,2026-04-15
+SO-10948,Central,Office chair,12,249.00,298.80,2026-06-16
+SO-10949,East,Mouse,26,29.50,,2026-06-04
+SO-10950,South,Keyboard,36,89.00,,2026-07-19
+SO-10951,West,Notebook pack,35,12.50,,2026-06-12
+SO-10952,West,Keyboard,9,89.00,,2026-08-03
+SO-10953,West,Notebook pack,40,12.50,,2026-07-29
+SO-10954,East,Office chair,38,249.00,,2026-05-14
+SO-10955,South,Keyboard,8,89.00,,2026-09-02
+SO-10956,East,Desk lamp,5,39.90,,2026-07-21
+SO-10957,Central,Notebook pack,16,12.50,,2026-07-13
+SO-10958,South,Keyboard,30,89.00,,2026-08-19
+SO-10959,North,Keyboard,40,89.00,,2026-02-01
+SO-10960,East,Notebook pack,26,12.50,,2026-01-23
+SO-10961,North,Notebook pack,5,12.50,,2026-07-14
+SO-10962,West,Keyboard,27,89.00,,2026-05-18
+SO-10963,East,Notebook pack,4,12.50,5.00,2026-08-29
+SO-10964,Central,Mouse,10,29.50,29.50,2026-06-12
+SO-10965,West,Printer paper,38,21.00,,2026-03-03
+SO-10966,Central,Headset,11,119.00,130.90,2026-07-30
+SO-10966,Central,Headset,11,119.00,130.90,2026-07-30
+SO-10967,Central,Printer paper,25,21.00,,2026-09-23
+SO-10968,South,Desk lamp,33,39.90,,2026-06-25
+SO-10969,North,Monitor stand,33,59.00,,2026-08-22
+SO-10970,South,Office chair,28,249.00,,2026-04-22
+SO-10971,Central,Keyboard,19,89.00,,2026-03-25
+SO-10972,West,Headset,40,119.00,,2026-01-02
+SO-10973,south,Printer paper,10,21.00,,2026-08-28
+SO-10974,North,Keyboard,1,89.00,,2026-05-28
+SO-10975,North,Monitor stand,5,59.00,14.75,2026-06-29
+SO-10976,West,Monitor stand,15,59.00,88.50,2026-09-19
+SO-10977,Central,Printer paper,28,21.00,,2026-01-16
+SO-10978,North,Keyboard,32,89.00,,2026-03-25
+SO-10979,Central,Notebook pack,29,12.50,,2026-05-27
+SO-10980,Central,Notebook pack,1,12.50,,2026-05-19
+SO-10981,North,Keyboard,31,89.00,275.90,2026-08-31
+SO-10982,East,Printer paper,40,21.00,,2026-09-27
+SO-10983,West,Headset,38,119.00,,2026-03-18
+SO-10984,South,Desk lamp,23,39.90,,2026-08-28
+SO-10985,North,Desk lamp,26,39.90,,2026-03-24
+SO-10986,East,Headset,33,119.00,392.70,2026-04-13
+SO-10987,South,Mouse,3,29.50,,2026-08-23
+SO-10988,West,Mouse,30,29.50,,2026-09-25
+SO-10989,South,Notebook pack,36,12.50,,2026-04-05
+SO-10990,North,Desk lamp,15,39.90,29.93,2026-05-26
+SO-10991,East,Notebook pack,26,12.50,,2026-04-15
+SO-10992,South,Keyboard,30,89.00,,2026-06-05
+SO-10993,South,Keyboard,39,89.00,173.55,2026-03-02
+SO-10994,Central,Monitor stand,15,59.00,,2026-04-29
+SO-10995,South,Notebook pack,35,12.50,,2026-04-05
+SO-10996,North,Mouse,30,29.50,,2026-02-20
+SO-10997,East,Monitor stand,27,59.00,,2026-03-18
+SO-10998,Central,Notebook pack,21,12.50,,2026-04-16
+SO-10999,East,Keyboard,28,89.00,,2026-03-10
+SO-11000,Central,Mouse,27,29.50,,2026-04-06
+SO-11001,West,Monitor stand,39,59.00,,2026-03-17
+SO-11002,West,Monitor stand,31,59.00,,2026-02-16
+SO-11003,South,Headset,23,119.00,136.85,2026-05-22
+SO-11004,East,Headset,19,119.00,226.10,2026-03-24
+SO-11005,Central,Mouse,9,29.50,,2026-06-30
+SO-11006,East,Monitor stand,10,59.00,,2026-04-29
+SO-11007,South,Keyboard,38,89.00,169.10,2026-08-10
+SO-11008,East,Headset,5,119.00,29.75,2026-06-11
+SO-11009,South,Notebook pack,9,12.50,11.25,2026-07-22
+SO-11010,West,Notebook pack,7,12.50,,2026-06-14
+SO-11011,West,Desk lamp,-3,39.90,,2026-01-03
+SO-11012,Central,Printer paper,34,21.00,71.40,2026-01-07
+SO-11013,East,Notebook pack,7,12.50,,2026-06-30
+SO-11014,South,Desk lamp,36,39.90,,2026-07-11
+SO-11015,South,Monitor stand,28,59.00,82.60,2026-07-14
+SO-11016,North,Mouse,39,29.50,115.05,2026-06-17
+SO-11017,South,Printer paper,39,21.00,,2026-03-03
+SO-11018,East,Office chair,6,249.00,,2026-04-01
+SO-11019,Central,Keyboard,6,89.00,,2026-08-07
+SO-11020,West,Notebook pack,3,12.50,3.75,2026-06-09
+SO-11021,Central,Desk lamp,23,39.90,,2026-08-23
+SO-11022,central,Monitor stand,33,59.00,,2026-06-11
+SO-11023,West,Desk lamp,22,39.90,,2026-03-07
+SO-11024,North,Desk lamp,39,39.90,155.61,2026-04-07
+SO-11025,Central,Desk lamp,23,39.90,,2026-01-20
+SO-11026,South,Mouse,15,29.50,,2026-07-31
+SO-11027,South,Keyboard,7,89.00,62.30,2026-03-16
+SO-11028,North,Printer paper,23,21.00,,2026-03-04
+SO-11029,North,Desk lamp,23,39.90,,2026-01-02
+SO-11030,South,Headset,25,119.00,,2026-06-06
+SO-11031,East,Office chair,24,249.00,597.60,2026-06-01
+SO-11032,Central,Printer paper,39,21.00,,2026-03-27
+SO-11033,Central,Office chair,4,249.00,,2026-08-07
+SO-11034,East,Keyboard,16,89.00,,2026-05-05
+SO-11035,Central,Monitor stand,10,59.00,29.50,2026-08-03
+SO-11036,North,Monitor stand,15,59.00,,2026-02-03
+SO-11037,West,Printer paper,22,21.00,,2026-01-06
+SO-11038,North,Monitor stand,1,59.00,,2026-02-17
+SO-11039,West,Mouse,25,29.50,73.75,2026-06-24
+SO-11040,North,Monitor stand,26,59.00,,2026-07-24
+SO-11041,West,Office chair,1,249.00,24.90,2026-03-08
+SO-11042,South,Notebook pack,15,12.50,,2026-07-06
+SO-11043,East,Keyboard,28,89.00,,2026-06-20
+SO-11044,North,Notebook pack,35,12.50,,2026-08-06
+SO-11045,East,Printer paper,30,21.00,,2026-06-15
+SO-11046,South,Mouse,31,29.50,,2026-07-16
+SO-11047,South,Desk lamp,22,39.90,87.78,2026-05-08
+SO-11048,West,Printer paper,9,21.00,,2026-02-11
+SO-11049,East,Notebook pack,16,12.50,,2026-02-18
+SO-11050,West,Mouse,11,29.50,16.23,2026-02-21
+SO-11051,South,Headset,33,119.00,,2026-01-08
+SO-11052,East,Office chair,35,249.00,,2026-01-31
+SO-11053,South,Mouse,30,29.50,88.50,2026-04-16
+SO-11054,East,Notebook pack,3,12.50,1.88,2026-02-06
+SO-11055,Central,Desk lamp,18,39.90,,2026-02-07
+SO-11056,East,Printer paper,34,21.00,,2026-07-24
+SO-11057,North,Printer paper,35,21.00,,2026-03-31
+SO-11058,North,Office chair,13,249.00,,2026-01-30
+SO-11059,East,Headset,12,119.00,,2026-01-09
+SO-11060,Central,Keyboard,14,89.00,,2026-07-31
+SO-11061,Central,Mouse,14,29.50,,2026-06-25
+SO-11062,West,Keyboard,20,89.00,,2026-08-23
+SO-11063,South,Office chair,2,249.00,,2026-06-04
+SO-11064,South,Desk lamp,34,39.90,,2026-09-26
+SO-11065,Central,Headset,25,119.00,,2026-07-03
+SO-11066,North,Office chair,25,249.00,,2026-01-26
+SO-11067,South,Monitor stand,10,59.00,59.00,2026-07-23
+SO-11068,Central,Headset,14,119.00,,2026-01-18
+SO-11069,North,Desk lamp,18,39.90,,2026-03-06
+SO-11070,West,Mouse,18,29.50,26.55,2026-03-21
+SO-11071,East,Desk lamp,20,39.90,,2026-08-15
+SO-11072,East,Notebook pack,26,12.50,,2026-02-18
+SO-11073,South,Printer paper,26,21.00,,2026-07-01
+SO-11074,East,Monitor stand,23,59.00,135.70,2026-04-23
+SO-11075,South,Office chair,23,249.00,286.35,2026-04-04
+SO-11076,East,Desk lamp,25,39.90,,2026-02-13
+SO-11077,Central,Notebook pack,34,12.50,42.50,2026-01-08
+SO-11078,West,Mouse,1,29.50,,2026-05-17
+SO-11079,North,Office chair,27,249.00,,2026-02-23
+SO-11080,East,Monitor stand,30,59.00,88.50,2026-07-15
+SO-11081,Central,Mouse,38,29.50,,2026-05-10
+SO-11082,Central,Keyboard,2,89.00,,2026-02-07
+SO-11083,North,Notebook pack,24,12.50,,2026-03-07
+SO-11084,West,Keyboard,19,89.00,,2026-06-02
+SO-11085,West,Mouse,38,29.50,,2026-06-24
+SO-11086,North,Notebook pack,16,12.50,,2026-03-17
+SO-11087,North,Headset,5,119.00,29.75,2026-01-14
+SO-11088,Central,Monitor stand,1 371,59.00,,2026-07-20
+SO-11089,South,Notebook pack,15,12.50,9.38,2026-07-26
+SO-11090,East,Notebook pack,39,12.50,,2026-03-05
+SO-11091,South,Printer paper,29,21.00,30.45,2026-07-13
+SO-11092,South,Monitor stand,20,59.00,,2026-08-09
+SO-11093,North,Monitor stand,20,59.00,118.00,2026-05-06
+SO-11094,Central,Monitor stand,3,59.00,,2026-04-15
+SO-11095,North,Desk lamp,17,39.90,33.91,2026-04-07
+SO-11096,West,Printer paper,34,21.00,,2026-01-09
+SO-11097,East,Notebook pack,37,12.50,,2026-05-18
+SO-11098,East,Keyboard,7,89.00,31.15,2026-07-10
+SO-11099,North,Printer paper,10,,,2026-05-08
+SO-11100,West,Notebook pack,9,12.50,,2026-07-21
+SO-11101,East,Monitor stand,6,59.00,35.40,2026-04-01
+SO-11102,North,Desk lamp,11,39.90,21.95,2026-02-28
+SO-11103,West,Headset,10,119.00,,2026-05-06
+SO-11104,North,Keyboard,5,89.00,,2026-03-11
+SO-11105,Central,Keyboard,21,89.00,186.90,2026-07-16
+SO-11106,Central,Keyboard,12,89.00,,2026-05-25
+SO-11107,South,Headset,29,119.00,,2026-07-04
+SO-11108,Central,Monitor stand,35,59.00,,2026-04-15
+SO-11109,North,Mouse,2,29.50,,2026-03-23
+SO-11110,East,Notebook pack,34,12.50,,2026-06-18
+SO-11111,Central,Desk lamp,19,39.90,,2026-08-31
+SO-11112,West,Printer paper,15,21.00,15.75,2026-05-27
+SO-11113,South,Printer paper,9,21.00,,2026-09-18
+SO-11114,South,Headset,3,119.00,17.85,2026-01-29
+SO-11115,South,Printer paper,22,21.00,,2026-02-17
+SO-11116,North,Printer paper,35,21.00,,2026-06-19
+SO-11117,South,Mouse,8,29.50,11.80,2026-05-17
+SO-11118,South,Mouse,37,29.50,,2026-04-07
+SO-11119,South,Monitor stand,6,59.00,35.40,2026-06-02
+SO-11120,North,Desk lamp,1,39.90,,2026-08-15
+SO-11121,South,Desk lamp,21,39.90,,2026-08-21
+SO-11122,West,Office chair,27,249.00,336.15,2026-03-28
+SO-11123,West,Printer paper,19,21.00,39.90,2026-01-17
+SO-11124,North,Headset,31,119.00,,2026-03-29
+SO-11125,West,Monitor stand,28,59.00,,2026-05-19
+SO-11126,North,Desk lamp,15,39.90,,2026-08-06
+SO-11127,East,Keyboard,21,89.00,186.90,2026-01-23
+SO-11128,West,Headset,30,119.00,,2026-08-25
+SO-11129,Central,Office chair,14,249.00,,2026-02-20
+SO-11130,West,Keyboard,27,89.00,120.15,2026-06-06
+SO-11131,North,Keyboard,1,89.00,8.90,2026-06-18
+SO-11132,Central,Monitor stand,33,59.00,,2026-05-22
+SO-11133,Central,Printer paper,13,21.00,,2026-03-26
+SO-11134,North,Desk lamp,1,39.90,,2026-04-09
+SO-11135,South,Monitor stand,21,59.00,,2026-06-13
+SO-11136,North,Monitor stand,40,59.00,236.00,2026-05-14
+SO-11137,North,Notebook pack,16,12.50,,2026-01-10
+SO-11138,Central,Headset,1,119.00,11.90,2026-07-30
+SO-11139,North,Headset,14,119.00,,2026-06-30
+SO-11140,West,Mouse,13,29.50,,2026-04-30
+SO-11141,South,Headset,19,119.00,,2026-06-13
+SO-11142,South,Headset,27,119.00,321.30,2026-01-08
+SO-11143,West,Printer paper,28,21.00,,2026-05-01
+SO-11144,North,Notebook pack,12,12.50,7.50,2026-01-15
+SO-11145,North,Mouse,38,29.50,,2026-07-13
+SO-11146,South,Office chair,20,249.00,,2026-04-22
+SO-11147,East,Keyboard,11,89.00,48.95,2026-09-25
+SO-11148,North,Printer paper,38,21.00,,2026-05-09
+SO-11149,South,Monitor stand,33,59.00,,2026-02-27
+SO-11150,west,Notebook pack,38,12.50,,2026-05-19
+SO-11151,West,Notebook pack,3,12.50,,2026-07-06
+SO-11152,Central,Mouse,24,29.50,35.40,2026-09-01
+SO-11153,South,Printer paper,23,21.00,48.30,2026-08-14
+SO-11154,South,Desk lamp,16,39.90,,2026-01-08
+SO-11155,Central,Desk lamp,39,39.90,77.81,2026-03-03
+SO-11156,East,Desk lamp,5,39.90,,2026-01-05
+SO-11157,South,Mouse,35,29.50,103.25,2026-02-06
+SO-11158,North,Monitor stand,30,59.00,,2026-02-05
+SO-11159,North,Notebook pack,8,12.50,,2026-04-23
+SO-11160,South,Monitor stand,39,59.00,230.10,2026-04-07
+SO-11161,East,Keyboard,4,89.00,17.80,2026-03-22
+SO-11162,North,Monitor stand,18,59.00,,2026-01-10
+SO-11163,North,Mouse,16,29.50,,2026-03-11
+SO-11164,Central,Mouse,39,29.50,115.05,2026-09-17
+SO-11165,East,Printer paper,5,21.00,,2026-04-07
+SO-11166,North,Mouse,7,29.50,,2026-06-03
+SO-11167,West,Monitor stand,7,59.00,,2026-05-23
+SO-11168,West,Keyboard,21,89.00,,2026-06-01
+SO-11169,North,Keyboard,28,89.00,,2026-05-30
+SO-11170,North,Monitor stand,36,59.00,,2026-01-17
+SO-11171,West,Office chair,12,249.00,,2026-03-10
+SO-11172,West,Headset,17,119.00,202.30,2026-04-20
+SO-11173,West,Keyboard,22,89.00,,2026-07-03
+SO-11174,Central,Monitor stand,27,59.00,79.65,2026-04-25
+SO-11175,North,Office chair,13,249.00,161.85,2026-03-24
+SO-11176,Central,Headset,3,119.00,,2026-05-09
+SO-11177,North,Printer paper,19,21.00,39.90,2026-01-31
+SO-11178,North,Headset,25,119.00,297.50,2026-04-21
+SO-11179,East,Monitor stand,33,59.00,194.70,2026-03-16
+SO-11180,Central,Keyboard,1,89.00,8.90,2026-04-07
+SO-11181,East,Monitor stand,35,59.00,,2026-03-07
+SO-11182,Central,Office chair,3,249.00,,2026-09-22
+SO-11183,South,Office chair,18,249.00,224.10,2026-01-29
+SO-11184,West,Notebook pack,27,12.50,,2026-06-23
+SO-11185,West,Notebook pack,3,12.50,,2026-04-13
+SO-11186,East,Office chair,19,249.00,,2026-07-13
+SO-11187,East,Mouse,20,29.50,59.00,2026-09-06
+SO-11188,West,Headset,30,119.00,,2026-06-10
+SO-11189,Central,Headset,25,119.00,,2026-05-17
+SO-11190,South,Notebook pack,4,12.50,,2026-09-25
+SO-11191,East,Notebook pack,37,12.50,23.12,2026-05-15
+SO-11192,Central,Keyboard,26,89.00,,2026-03-28
+SO-11193,South,Mouse,17,29.50,,2026-03-06
+SO-11194,West,Headset,39,119.00,,2026-06-26
+SO-11195,Central,Desk lamp,36,39.90,143.64,2026-07-07
+SO-11196,West,Headset,27,119.00,,2026-07-18
+SO-11197,South,Printer paper,20,21.00,,2026-07-04
+SO-11198,South,Printer paper,28,21.00,,2026-08-01
+SO-11199,South,Monitor stand,1,59.00,,2026-08-13
+SO-11200,South,Mouse,6,29.50,,2026-04-24
+SO-11201,Central,Printer paper,16,21.00,,2026-07-19
+SO-11202,South,Office chair,37,249.00,,2026-08-09
+SO-11203,South,Office chair,16,"249,00",398.40,2026-02-08
+SO-11204,East,Monitor stand,15,59.00,,2026-02-20
+SO-11205,North,Keyboard,35,89.00,155.75,2026-03-17
+SO-11206,North,Office chair,4,249.00,99.60,2026-01-10
+SO-11207,Central,Headset,11,119.00,,2026-01-24
+SO-11208,Central,Desk lamp,17,39.90,,2026-04-30
+SO-11209,North,Notebook pack,14,12.50,8.75,2026-08-17
+SO-11210,West,Office chair,37,249.00,,2026-04-20
+SO-11211,Central,Printer paper,40,21.00,42.00,2026-07-18
+SO-11212,South,Printer paper,11,21.00,11.55,2026-07-20
+SO-11213,North,Headset,25,119.00,,2026-04-09
+SO-11214,Central,Headset,12,119.00,,2026-09-20
+SO-11215,Central,Printer paper,34,21.00,,2026-03-11
+SO-11216,Central,Keyboard,23,89.00,204.70,2026-01-10
+SO-11217,South,Printer paper,25,21.00,52.50,2026-08-18
+SO-11218,South,Office chair,27,249.00,,2026-09-08
+SO-11219,South,Keyboard,28,89.00,,2026-03-30
+SO-11220,West,Office chair,31,249.00,,2026-09-04
+SO-11221,North,Keyboard,5,89.00,44.50,2026-01-31
+SO-11222,West,Notebook pack,18,12.50,,2026-02-11
+SO-11223,Central,Office chair,18,249.00,448.20,2026-08-28
+SO-11224,South,Notebook pack,39,12.50,,2026-08-31
+SO-11225,South,Printer paper,19,21.00,,2026-09-15
+SO-11226,South,Headset,7,119.00,,2026-08-28
+SO-11227,South,Desk lamp,38,39.90,,2026-08-21
+SO-11228,North,Notebook pack,8,12.50,5.00,2026-01-22
+SO-11229,East,Monitor stand,7,59.00,,2026-05-16
+SO-11230,East,Mouse,34,29.50,,2026-09-10
+SO-11231,Central,Desk lamp,38,39.90,,2026-09-09
+SO-11232,West,Headset,24,119.00,,2026-08-15
+SO-11233,West,Printer paper,36,21.00,,2026-04-30
+SO-11234,North,Office chair,31,249.00,,2026-04-24
+SO-11235,East,Office chair,38,249.00,,2026-04-19
+SO-11236,Central,Mouse,2,29.50,2.95,2026-08-13
+SO-11237,Central,Keyboard,27,89.00,240.30,2026-08-19
+SO-11238,Central,Desk lamp,3,39.90,5.98,2026-08-18
+SO-11239,Central,Monitor stand,21,59.00,61.95,2026-05-11
+SO-11240,West,Headset,20,119.00,,2026-07-08
+SO-11240,West,Headset,20,119.00,,2026-07-08
+SO-11241,Central,Mouse,31,29.50,,2026-01-08
+SO-11242,Central,Printer paper,8,21.00,8.40,2026-03-01
+SO-11243,South,Headset,8,119.00,95.20,2026-04-09
+SO-11244,East,Printer paper,40,21.00,,2026-01-28
+SO-11245,East,Office chair,30,249.00,,2026-06-17
+SO-11246,South,Mouse,39,29.50,,2026-05-25
+SO-11247,Central,Headset,34,119.00,,2026-03-23
+SO-11248,West,Mouse,7,29.50,,2026-09-11
+SO-11249,South,Mouse,19,29.50,,2026-09-02
+SO-11250,North,Printer paper,13,21.00,,2026-07-22
+SO-11251,North,Keyboard,34,89.00,302.60,2026-03-20
+SO-11252,North,Keyboard,40,89.00,,2026-02-14
+SO-11253,East,Headset,6,119.00,35.70,2026-03-21
+SO-11254,Central,Mouse,27,29.50,,2026-08-21
+SO-11255,South,Printer paper,5,21.00,10.50,2026-07-11
+SO-11256,West,Office chair,17,249.00,,2026-07-25
+SO-11257,West,Monitor stand,13,59.00,38.35,2026-07-09
+SO-11258,South,Headset,39,119.00,,2026-06-25
+SO-11259,South,Notebook pack,30,12.50,,2026-04-25
+SO-11260,South,Mouse,35,29.50,51.62,2026-03-28
+SO-11261,West,Office chair,5,249.00,,2026-06-20
+SO-11262,South,Printer paper,38,21.00,,2026-04-25
+SO-11263,Central,Printer paper,7,21.00,,2026-07-03
+SO-11264,West,Headset,38,119.00,452.20,2026-01-08
+SO-11265,East,Headset,5,119.00,,2026-06-09
+SO-11266,south  ,Mouse,40,29.50,,2026-07-20
+SO-11267,South,Headset,19,119.00,,2026-07-16
+SO-11268,Central,Notebook pack,22,12.50,13.75,2026-07-13
+SO-11269,Central,Notebook pack,3,12.50,,2026-07-16
+SO-11270,West,Keyboard,31,89.00,,2026-09-20
+SO-11271,South,Desk lamp,32,39.90,,2026-02-17
+SO-11272,South,Office chair,32,249.00,398.40,2026-06-30
+SO-11273,East,Printer paper,32,21.00,,2026-03-24
+SO-11274,Central,Office chair,9,249.00,,2026-01-02
+SO-11275,South,Desk lamp,6,39.90,11.97,2026-04-12
+SO-11276,North,Monitor stand,11,59.00,,2026-01-03
+SO-11277,North,Notebook pack,13,12.50,8.12,2026-03-14
+SO-11278,East,Mouse,28,29.50,,2026-03-15
+SO-11279,East,Desk lamp,4,39.90,,2026-07-14
+SO-11280,West,Printer paper,35,21.00,,2026-06-29
+SO-11281,East,Keyboard,16,89.00,,2026-09-23
+SO-11282,West,Office chair,11,249.00,273.90,2026-06-09
+SO-11283,West,Headset,3,119.00,35.70,2026-09-05
+SO-11284,Central,Monitor stand,29,59.00,,2026-04-29
+SO-11285,North,Desk lamp,37,39.90,,2026-03-26
+SO-11286,North,Mouse,23,29.50,67.85,2026-07-17
+SO-11287,North,Printer paper,7,21.00,14.70,2026-07-24
+SO-11288,North,Printer paper,40,21.00,,2026-03-27
+SO-11289,West,Monitor stand,-3,59.00,,2026-04-12
+SO-11290,West,Printer paper,7,21.00,,2026-07-06
+SO-11291,West,Mouse,11,29.50,,2026-07-01
+SO-11292,East,Mouse,12,29.50,17.70,2026-09-05
+SO-11293,West,Keyboard,5,89.00,,2026-03-08
+SO-11294,West,Office chair,29,249.00,361.05,2026-01-21
+SO-11295,West,Desk lamp,34,39.90,67.83,2026-06-20
+SO-11296,West,Office chair,35,249.00,871.50,2026-01-22
+SO-11297,Central,Monitor stand,24,59.00,,2026-03-17
+SO-11298,Central,Mouse,26,29.50,,2026-03-14
+SO-11299,Central,Office chair,21,249.00,,2026-08-10
+SO-11300,Central,Keyboard,37,89.00,,2026-03-03
+SO-11301,West,Monitor stand,35,59.00,,2026-06-10
+SO-11302,West,Printer paper,5,21.00,10.50,2026-04-05
+SO-11303,South,Keyboard,23,89.00,,2026-06-02
+SO-11304,East,Desk lamp,23,39.90,,2026-02-16
+SO-11305,West,Monitor stand,22,59.00,129.80,2026-05-15
+SO-11306,West,Mouse,29,29.50,,2026-04-13
+SO-11307,North,Keyboard,31,89.00,137.95,2026-04-03
+SO-11308,Central,Office chair,15,249.00,,2026-06-01
+SO-11309,West,Keyboard,12,89.00,,2026-06-24
+SO-11310,North,Monitor stand,4,59.00,,2026-01-21
+SO-11311,East,Printer paper,2,21.00,,2026-08-16
+SO-11312,North,Headset,1 427,119.00,,2026-02-04
+SO-11313,South,Monitor stand,20,59.00,59.00,2026-02-04
+SO-11314,North,Notebook pack,33,12.50,,2026-03-24
+SO-11315,Central,Headset,11,119.00,,2026-09-14
+SO-11316,North,Desk lamp,10,39.90,,2026-09-16
+SO-11317,Central,Office chair,34,249.00,846.60,2026-05-19
+SO-11318,Central,Notebook pack,24,12.50,,2026-06-19
+SO-11319,West,Monitor stand,21,59.00,61.95,2026-07-08
+SO-11320,East,Keyboard,17,89.00,,2026-01-04
+SO-11321,West,Monitor stand,20,59.00,,2026-08-30
+SO-11322,East,Notebook pack,29,12.50,,2026-01-22
+SO-11323,West,Keyboard,2,89.00,17.80,2026-02-27
+SO-11324,Central,Notebook pack,16,12.50,,2026-03-16
+SO-11325,Central,Office chair,15,249.00,,2026-05-23
+SO-11326,West,Keyboard,33,89.00,,2026-01-31
+SO-11327,North,Notebook pack,12,12.50,,2026-02-14
+SO-11328,East,Office chair,35,249.00,,2026-08-25
+SO-11329,West,Printer paper,21,21.00,,2026-09-04
+SO-11330,East,Notebook pack,11,12.50,13.75,2026-08-22
+SO-11331,West,Headset,11,119.00,,2026-08-21
+SO-11332,Central,Keyboard,33,89.00,,2026-03-10
+SO-11333,West ,Headset,15,119.00,,2026-03-07
+SO-11334,Central,Keyboard,16,89.00,,2026-05-03
+SO-11335,East,Keyboard,19,89.00,,2026-08-13
+SO-11336,East,Notebook pack,2,12.50,1.25,2026-07-03
+SO-11337,North,Desk lamp,27,39.90,53.87,2026-04-01
+SO-11338,West,Desk lamp,22,39.90,,2026-03-21
+SO-11339,South,Monitor stand,21,59.00,123.90,2026-03-09
+SO-11340,West,Office chair,38,249.00,,2026-04-17
+SO-11341,North,Desk lamp,3,39.90,5.98,2026-01-14
+SO-11342,Central,Notebook pack,8,12.50,10.00,2026-09-25
+SO-11343,North,Office chair,22,249.00,,2026-03-07
+SO-11344,North,Office chair,13,249.00,161.85,2026-08-18
+SO-11345,West,Notebook pack,28,12.50,35.00,2026-02-20
+SO-11346,North,Headset,7,119.00,,2026-04-30
+SO-11347,South,Notebook pack,10,12.50,,2026-08-15
+SO-11348,North,Printer paper,38,21.00,,2026-04-26
+SO-11349,North,Keyboard,26,89.00,231.40,2026-06-22
+SO-11350,North,Keyboard,2,,,2026-01-20
+SO-11351,East,Mouse,16,29.50,,2026-08-16
+SO-11352,West,Mouse,9,29.50,26.55,2026-03-25
+SO-11353,West,Headset,21,119.00,,2026-02-04
+SO-11354,North,Keyboard,33,89.00,,2026-05-20
+SO-11355,Central,Keyboard,12,89.00,106.80,2026-02-19
+SO-11356,Central,Mouse,39,29.50,,2026-05-22
+SO-11357,North,Notebook pack,12,12.50,,2026-03-06
+SO-11358,East,Notebook pack,13,12.50,,2026-07-06
+SO-11359,West,Notebook pack,38,12.50,,2026-06-24
+SO-11360,South,Mouse,33,29.50,,2026-07-26
+SO-11361,West,Headset,14,119.00,83.30,2026-06-09
+SO-11362,North,Office chair,1,249.00,12.45,2026-08-30
+SO-11363,Central,Monitor stand,4,59.00,23.60,2026-05-18
+SO-11364,South,Monitor stand,29,59.00,,2026-05-04
+SO-11365,South,Keyboard,12,89.00,,2026-07-05
+SO-11366,North,Printer paper,20,21.00,21.00,2026-07-23
+SO-11367,West,Headset,27,119.00,,2026-09-16
+SO-11368,East,Office chair,25,249.00,622.50,2026-07-31
+SO-11369,East,Monitor stand,36,59.00,106.20,2026-09-13
+SO-11370,South,Mouse,35,29.50,51.62,2026-05-14
+SO-11371,East,Desk lamp,25,39.90,,2026-01-25
+SO-11372,South,Headset,2,119.00,23.80,2026-03-13
+SO-11373,East,Headset,22,119.00,130.90,2026-06-13
+SO-11374,West,Office chair,5,249.00,,2026-03-07
+SO-11375,Central,Headset,39,119.00,,2026-02-13
+SO-11376,South,Notebook pack,17,12.50,,2026-05-20
+SO-11377,Central,Keyboard,20,"89,00",,2026-02-22
+SO-11378,South,Desk lamp,2,39.90,,2026-02-12
+SO-11379,South,Monitor stand,15,59.00,88.50,2026-05-05
+SO-11380,West,Notebook pack,36,12.50,22.50,2026-02-04
+SO-11381,West,Printer paper,36,21.00,,2026-09-24
+SO-11382,North,Mouse,35,29.50,,2026-06-08
+SO-11383,Central,Printer paper,21,21.00,22.05,2026-05-05
+SO-11384,East,Keyboard,1,89.00,,2026-02-19
+SO-11385,Central,Office chair,3,249.00,,2026-08-16
+SO-11386,South,Monitor stand,8,59.00,,2026-07-09
+SO-11387,West,Keyboard,31,89.00,137.95,2026-01-20
+SO-11388,West,Printer paper,33,21.00,,2026-09-08
+SO-11389,South,Desk lamp,3,39.90,5.98,2026-05-14
+SO-11390,Central,Mouse,31,29.50,,2026-04-05
+SO-11391,East,Printer paper,20,21.00,42.00,2026-08-19
+SO-11392,East,Printer paper,10,21.00,21.00,2026-02-27
+SO-11393,South,Keyboard,36,89.00,320.40,2026-01-28
+SO-11394,South,Desk lamp,20,39.90,,2026-03-12
+SO-11395,Central,Notebook pack,7,12.50,,2026-07-11
+SO-11396,East,Notebook pack,38,12.50,23.75,2026-07-26
+SO-11397,East,Printer paper,15,21.00,15.75,2026-07-16
+SO-11398,Central,Office chair,23,249.00,,2026-01-06
+SO-11399,South,Desk lamp,17,39.90,,2026-04-16
+SO-11400,Central,Monitor stand,40,59.00,,2026-09-04
+SO-11401,Central,Desk lamp,6,39.90,,2026-06-21
+SO-11402,Central,Desk lamp,35,39.90,139.65,2026-08-28
+SO-11403,North,Mouse,33,29.50,,2026-07-31
+SO-11404,South,Desk lamp,34,39.90,,2026-01-22
+SO-11405,North,Desk lamp,27,39.90,,2026-09-05
+SO-11405,North,Desk lamp,27,39.90,,2026-09-05
+SO-11406,North,Monitor stand,1,59.00,5.90,2026-01-30
+SO-11407,Central,Notebook pack,2,12.50,1.25,2026-09-02
+SO-11408,North,Notebook pack,18,12.50,22.50,2026-02-20
+SO-11409,West,Desk lamp,16,39.90,63.84,2026-08-10
+SO-11410,West,Desk lamp,20,39.90,79.80,2026-08-05
+SO-11411,North,Printer paper,32,21.00,67.20,2026-08-17
+SO-11412,East,Mouse,17,29.50,,2026-09-07
+SO-11413,West,Mouse,11,29.50,,2026-05-10
+SO-11414,West,Office chair,17,249.00,,2026-06-18
+SO-11415,South,Notebook pack,6,12.50,3.75,2026-07-13
+SO-11416,North,Headset,13,119.00,77.35,2026-08-12
+SO-11417,West,Printer paper,39,21.00,,2026-01-22
+SO-11418,North,Office chair,22,249.00,,2026-06-18
+SO-11419,North,Notebook pack,18,12.50,22.50,2026-01-05
+SO-11420,North,Mouse,11,29.50,32.45,2026-06-02
+SO-11421,EAST,Desk lamp,19,39.90,75.81,2026-08-14
+SO-11422,South,Desk lamp,15,39.90,,2026-03-29
+SO-11423,South,Desk lamp,31,39.90,123.69,2026-04-05
+SO-11424,South,Office chair,15,249.00,186.75,2026-01-28
+SO-11425,Central,Mouse,40,29.50,,2026-08-16
+SO-11426,West,Mouse,23,29.50,,2026-07-15
+SO-11427,West,Mouse,9,29.50,26.55,2026-08-25
+SO-11428,Central,Office chair,26,249.00,647.40,2026-07-28
+SO-11429,North,Printer paper,37,21.00,,2026-03-22
+SO-11430,North,Printer paper,27,21.00,,2026-02-04
+SO-11431,East,Mouse,5,29.50,14.75,2026-01-21
+SO-11432,South,Notebook pack,25,12.50,,2026-09-27
+SO-11433,East,Keyboard,5,89.00,44.50,2026-09-06
+SO-11434,South,Notebook pack,10,12.50,,2026-02-13
+SO-11435,South,Keyboard,14,89.00,124.60,2026-03-30
+SO-11436,East,Notebook pack,40,12.50,,2026-03-07
+SO-11437,North,Office chair,23,249.00,572.70,2026-08-14
+SO-11438,East,Headset,2,119.00,23.80,2026-08-04
+SO-11439,West,Notebook pack,6,12.50,3.75,2026-05-26
+SO-11440,East,Office chair,25,249.00,,2026-06-27
+SO-11441,Central,Printer paper,20,21.00,42.00,2026-07-21
+SO-11442,North,Notebook pack,15,12.50,,2026-03-23
+SO-11443,South,Desk lamp,15,39.90,29.93,2026-02-26
+SO-11444,West,Notebook pack,5,12.50,6.25,2026-01-06
+SO-11445,North,Desk lamp,-2,39.90,,2026-03-08
+SO-11446,Central,Printer paper,25,21.00,,2026-04-10
+SO-11447,East,Desk lamp,20,39.90,,2026-03-09
+SO-11448,South,Headset,27,119.00,,2026-03-11
+SO-11449,West,Monitor stand,8,59.00,,2026-08-18
+SO-11450,West,Keyboard,34,89.00,,2026-03-20
+SO-11451,West,Printer paper,9,21.00,,2026-02-25
+SO-11452,North,Desk lamp,1,39.90,3.99,2026-03-20
+SO-11453,North,Desk lamp,17,39.90,,2026-09-22
+SO-11454,West,Monitor stand,12,59.00,,2026-07-11
+SO-11455,Central,Headset,18,119.00,,2026-01-05
+SO-11456,North,Monitor stand,25,59.00,73.75,2026-01-29
+SO-11457,Central,Office chair,28,249.00,,2026-07-08
+SO-11458,East,Office chair,33,249.00,,2026-07-25
+SO-11459,West,Monitor stand,22,59.00,,2026-08-22
+SO-11460,East,Printer paper,36,"21,00",,2026-06-30
+SO-11461,Central,Keyboard,12,89.00,,2026-07-21
+SO-11462,South,Keyboard,5,89.00,22.25,2026-04-08
+SO-11463,North,Monitor stand,5,59.00,,2026-01-05
+SO-11464,East,Headset,9,119.00,,2026-06-27
+SO-11465,Central,Notebook pack,40,12.50,,2026-07-10
+SO-11466,South,Headset,20,119.00,,2026-01-23
+SO-11467,South,Mouse,21,29.50,,2026-01-02
+SO-11468,West,Desk lamp,21,39.90,41.90,2026-07-17
+SO-11469,Central,Notebook pack,24,12.50,,2026-07-08
+SO-11470,East,Monitor stand,38,59.00,112.10,2026-05-29
+SO-11471,Central,Office chair,36,249.00,,2026-06-15
+SO-11472,South,Mouse,26,29.50,76.70,2026-08-03
+SO-11473,North,Keyboard,13,89.00,,2026-05-08
+SO-11474,South,Headset,39,119.00,232.05,2026-06-20
+SO-11475,East,Keyboard,28,89.00,,2026-01-14
+SO-11476,West,Keyboard,4,89.00,17.80,2026-05-12
+SO-11477,South,Keyboard,37,,164.65,2026-02-25
+SO-11478,Central,Monitor stand,28,59.00,,2026-01-22
+SO-11479,West,Printer paper,25,21.00,26.25,2026-06-22
+SO-11480,South,Keyboard,37,89.00,329.30,2026-07-06
+SO-11481,South,Printer paper,17,21.00,35.70,2026-07-15
+SO-11482,South,Office chair,15,249.00,,2026-03-17
+SO-11483,South,Desk lamp,35,39.90,69.83,2026-09-17
+SO-11484,East,Monitor stand,6,59.00,,2026-05-27
+SO-11485,South,Desk lamp,16,39.90,31.92,2026-08-03
+SO-11486,North,Keyboard,5,89.00,,2026-09-04
+SO-11487,South,Desk lamp,24,39.90,47.88,2026-04-29
+SO-11488,West,Office chair,22,249.00,,2026-06-09
+SO-11489,Central,Notebook pack,39,12.50,24.38,2026-05-22
+SO-11490,North,Mouse,17,29.50,,2026-01-26
+SO-11491,West,Office chair,11,249.00,,2026-09-05
+SO-11492,West,Office chair,37,249.00,921.30,2026-07-21
+SO-11493,North,Printer paper,8,21.00,8.40,2026-08-10
+SO-11494,Central,Keyboard,34,89.00,302.60,2026-03-06
+SO-11495,South,Headset,3,119.00,35.70,2026-09-24
+SO-11496,North,Notebook pack,4,12.50,,2026-09-11
+SO-11497,North,Headset,30,119.00,357.00,2026-01-13
+SO-11498,Central,Desk lamp,34,39.90,,2026-05-07
+SO-11499,east  ,Printer paper,20,21.00,,2026-06-24
+SO-11500,Central,Monitor stand,20,59.00,59.00,2026-09-26
+TOTAL,,,37150,,65924.67,
